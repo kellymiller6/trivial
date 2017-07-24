@@ -1,0 +1,1157 @@
+{
+"id": 218,
+"title": "science & nature",
+"clues_count": 115,
+"clues": [
+    {
+    "id": 1332,
+    "answer": "Teflon",
+    "question": "Trade name for plastic used as protective layer on \"non-stick\" kitchen utensils",
+    "value": 100,
+    "airdate": "1985-12-06T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 1338,
+    "answer": "infinity",
+    "question": "An unlimited extent of space, time or quantity, as in numbers that go on \"forever\"",
+    "value": 200,
+    "airdate": "1985-12-06T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 1344,
+    "answer": "<i>Metamorphosis</i>",
+    "question": "A short story by Franz Kafka, or the life story of a butterfly",
+    "value": 300,
+    "airdate": "1985-12-06T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 1350,
+    "answer": "ecology",
+    "question": "1st called this in 19th c., branch of biology dealing with inter-relationship of organism & environment",
+    "value": 400,
+    "airdate": "1985-12-06T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 1356,
+    "answer": "refraction",
+    "question": "Why a straw standing in a glass of water looks like it's broken at the water's surface",
+    "value": 500,
+    "airdate": "1985-12-06T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 9205,
+    "answer": "chlorophyll",
+    "question": "All algae contain this green pigment that allows them to perform photosynthesis",
+    "value": 100,
+    "airdate": "1992-05-18T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 9211,
+    "answer": "a fuse",
+    "question": "It's a piece of metal put in an electrical circuit to melt if current flow is too high",
+    "value": 200,
+    "airdate": "1992-05-18T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 9217,
+    "answer": "a falcon",
+    "question": "The fastest flying animal is the peregrine species of this bird of prey",
+    "value": 300,
+    "airdate": "1992-05-18T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 9223,
+    "answer": "a seal",
+    "question": "The Weddell species of this sea mammal can stay underwater for over 40 minutes",
+    "value": 400,
+    "airdate": "1992-05-18T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 9229,
+    "answer": "Mars & Venus",
+    "question": "In the night sky, Jupiter is the third brightest of the stars & planets, after these two",
+    "value": 500,
+    "airdate": "1992-05-18T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 15425,
+    "answer": "Hubble Space Telescope",
+    "question": "Launched on April 24, 1990, it was the first general-purpose orbiting telescope",
+    "value": 100,
+    "airdate": "1997-06-30T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 15431,
+    "answer": "Dew point",
+    "question": "Fog may form when air cools to this \"point\" or when moisture is added to air near the ground",
+    "value": 200,
+    "airdate": "1997-06-30T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 15437,
+    "answer": "Bark",
+    "question": "Cinnamon & cork are obtained from this part of a tree",
+    "value": 300,
+    "airdate": "1997-06-30T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 15443,
+    "answer": "Walrus",
+    "question": "This tusked pinniped takes clams into its mouth & sucks the flesh from the shell",
+    "value": 400,
+    "airdate": "1997-06-30T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 15449,
+    "answer": "Tulip",
+    "question": "In the 1550s Fleming Ogier de Busbecq introduced this garden flower to Europe from Turkey",
+    "value": 500,
+    "airdate": "1997-06-30T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 15908,
+    "answer": "lightning",
+    "question": "The ball form of this weather phenomenon is also known as kugelblitz",
+    "value": 100,
+    "airdate": "1997-06-06T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 15914,
+    "answer": "photosynthesis",
+    "question": "In a leaf this food-making process takes place in the palisade & spongy cells",
+    "value": 200,
+    "airdate": "1997-06-06T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 15920,
+    "answer": "tundra",
+    "question": "The name of this treeless Arctic zone comes from a Lapp term for \"hill\"",
+    "value": 300,
+    "airdate": "1997-06-06T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 15926,
+    "answer": "the manatee",
+    "question": "The order Sirenia consists of 4 living species: the dugong & 3 species of this animal",
+    "value": 400,
+    "airdate": "1997-06-06T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 15932,
+    "answer": "tumbleweed",
+    "question": "The Russian thistle is a species of this plant blown about the prairies",
+    "value": 500,
+    "airdate": "1997-06-06T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 18609,
+    "answer": "Glacier",
+    "question": "The Columbia, one of these between Valdez & Anchorage, Alaska can move about 65 feet per day",
+    "value": 100,
+    "airdate": "1997-01-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 18615,
+    "answer": "Gene",
+    "question": "In 1909 Dutch botanist Wilhelm Johannsen first proposed this name for the unit of heredity in living things",
+    "value": 200,
+    "airdate": "1997-01-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 18621,
+    "answer": "Crocodile",
+    "question": "The largest living reptile is probably the saltwater species of this animal, which may weigh more than a ton",
+    "value": 300,
+    "airdate": "1997-01-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 18627,
+    "answer": "Ivan Pavlov",
+    "question": "This Russian physiologist's major published work was \"Conditioned Reflexes\" in 1926",
+    "value": 400,
+    "airdate": "1997-01-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 18633,
+    "answer": "Johannes Kepler",
+    "question": "His first law of planetary motion states the planets' orbits are ellipses with the sun at one focus",
+    "value": 500,
+    "airdate": "1997-01-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 18978,
+    "answer": "Quail",
+    "question": "North American types of this bird include Montezuma, mountain & bobwhite",
+    "value": 300,
+    "airdate": "1997-01-07T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 18966,
+    "answer": "Gas",
+    "question": "This basic state of matter has no fixed volume or fixed shape",
+    "value": 100,
+    "airdate": "1997-01-07T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 18972,
+    "answer": "Indigo",
+    "question": "In a rainbow this color appears between blue & violet",
+    "value": 200,
+    "airdate": "1997-01-07T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 18984,
+    "answer": "Hans Geiger",
+    "question": "In 1928 physicist Walther Muller helped this man improve his radiation detector",
+    "value": 400,
+    "airdate": "1997-01-07T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 18990,
+    "answer": "Chloroplasts",
+    "question": "Photosynthesis takes place in these specialized structures in the cells of plants",
+    "value": 500,
+    "airdate": "1997-01-07T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 19716,
+    "answer": "pine",
+    "question": "It's the largest & most economically important family of conifers",
+    "value": 100,
+    "airdate": "1996-12-02T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 19722,
+    "answer": "waterspout",
+    "question": "This term refers specifically to a tornado that forms over a lake or ocean",
+    "value": 200,
+    "airdate": "1996-12-02T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 19728,
+    "answer": "kookaburra",
+    "question": "This bird, \"laughing jackass\", is often heard on soundtracks to represent jungle sounds",
+    "value": 300,
+    "airdate": "1996-12-02T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 19734,
+    "answer": "lotus",
+    "question": "Nelumbo nucifera is the scientific name of this sacred flower of Buddhism",
+    "value": 400,
+    "airdate": "1996-12-02T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 19740,
+    "answer": "Orion",
+    "question": "In 1920 Betelgeuse in this constellation became the first star whose size was measured",
+    "value": 500,
+    "airdate": "1996-12-02T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 24606,
+    "answer": "Fronds",
+    "question": "The leaves of a fern are commonly called this, from the Latin for \"foliage\"",
+    "value": 100,
+    "airdate": "1998-01-20T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 24612,
+    "answer": "Fire ants",
+    "question": "The \"fire\" type of this insect builds large mounds that interfere with harvesting hay",
+    "value": 200,
+    "airdate": "1998-01-20T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 24618,
+    "answer": "Sun",
+    "question": "A perihelion is the point in the orbit of a planet or other celestial body when it's closest to this",
+    "value": 300,
+    "airdate": "1998-01-20T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 24624,
+    "answer": "Fungi",
+    "question": "Mildews, smuts & morels belong to this group of organisms incapable of making their own food",
+    "value": 400,
+    "airdate": "1998-01-20T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 24630,
+    "answer": "Echinoderms",
+    "question": "This phylum of sea animals named for their spiny skin includes sea urchins & sea cucumbers",
+    "value": 500,
+    "airdate": "1998-01-20T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 24755,
+    "answer": "Knee joint",
+    "question": "The patellar reflex is an involuntary reaction of this joint",
+    "value": 100,
+    "airdate": "1998-01-13T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 24761,
+    "answer": "Osmosis",
+    "question": "Most of a cell's water passes through the plasma membrane by this process",
+    "value": 200,
+    "airdate": "1998-01-13T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 24767,
+    "answer": "Cockroach",
+    "question": "Unlike the German species, the Asian variety of this kitchen insect is actually attracted to light",
+    "value": 300,
+    "airdate": "1998-01-13T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 24773,
+    "answer": "Protozoans/protists",
+    "question": "Paramecia & amoebas are types of this single-celled organism",
+    "value": 400,
+    "airdate": "1998-01-13T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 24779,
+    "answer": "Edmond Halley",
+    "question": "In 1686 this English astronomer became the first to publish a meteorological chart",
+    "value": 500,
+    "airdate": "1998-01-13T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 62050,
+    "answer": "copper",
+    "question": "It's the main metal in both bronze & brass",
+    "value": 400,
+    "airdate": "2003-11-10T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 37508,
+    "answer": "Dwarfs",
+    "question": "Our sun is classified as the yellow type of these \"small\" stars",
+    "value": 100,
+    "airdate": "2000-02-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 37514,
+    "answer": "Crabapples",
+    "question": "Like those of the genus Malus, most wild apples are of this tart \"crustacean\" type",
+    "value": 200,
+    "airdate": "2000-02-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 37520,
+    "answer": "66,000",
+    "question": "Of 6,000, 66,000 or 666,000 MPH, the closest to the speed of the Earth around the sun",
+    "value": 300,
+    "airdate": "2000-02-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 37526,
+    "answer": "Egg, larva, pupa, adult",
+    "question": "2 of the 4 stages of development for most insects",
+    "value": 400,
+    "airdate": "2000-02-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 37532,
+    "answer": "Neurons",
+    "question": "The adult human brain is made up of more than 10 billion of these nerve cells",
+    "value": 500,
+    "airdate": "2000-02-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 42275,
+    "answer": "dwarfs",
+    "question": "About one-millionth as bright as our sun, these small red stars are also known as flare stars",
+    "value": 100,
+    "airdate": "2001-05-25T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 42281,
+    "answer": "a salamander",
+    "question": "The mud eel is not really an eel, but a species of this tailed amphibian",
+    "value": 200,
+    "airdate": "2001-05-25T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 42287,
+    "answer": "a screw",
+    "question": "Of the 6 simple machines in physics, this one uses a spiral inclined plane",
+    "value": 300,
+    "airdate": "2001-05-25T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 42293,
+    "answer": "Edelweiss",
+    "question": "The name of this Alpine flower is German for \"noble white\"",
+    "value": null,
+    "airdate": "2001-05-25T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 42299,
+    "answer": "radon",
+    "question": "All 6 noble gases were discovered on Earth between 1894 & 1900; this one, symbol Rn, was the last",
+    "value": 500,
+    "airdate": "2001-05-25T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 43685,
+    "answer": "Hawaii",
+    "question": "75 miles long & 64 miles wide, the Mauna Loa volcano in this state is the world's largest active volcano",
+    "value": 100,
+    "airdate": "2001-03-21T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 43691,
+    "answer": "Bookworm",
+    "question": "It can be a voracious reader, or a beetle larva that feeds on paper",
+    "value": 200,
+    "airdate": "2001-03-21T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 43697,
+    "answer": "Hurricane",
+    "question": "When a tropical storm's winds increase past 74 MPH, it's classified as one of these",
+    "value": 300,
+    "airdate": "2001-03-21T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 43703,
+    "answer": "Ozone layer",
+    "question": "12 to 30 miles up, this atmospheric \"layer\" largely in the stratosphere protects us from the full force of ultraviolet rays",
+    "value": 400,
+    "airdate": "2001-03-21T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 43709,
+    "answer": "Leafcutter ants",
+    "question": "The ants seen here of the genus Atta are known by this \"occupational\" name",
+    "value": 500,
+    "airdate": "2001-03-21T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 46958,
+    "answer": "Ink",
+    "question": "The cuttlefish hides 2 ways: it can camouflage itself like a chameleon, or hide behind a cloud of this",
+    "value": 100,
+    "airdate": "2000-10-19T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 46964,
+    "answer": "Chromosomes",
+    "question": "Having 4 large pairs of these makes the fruit fly a favorite subject for geneticists",
+    "value": 200,
+    "airdate": "2000-10-19T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 46970,
+    "answer": "Smelt",
+    "question": "A silvery food fish, or to heat ore in order to extract metal",
+    "value": 300,
+    "airdate": "2000-10-19T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 46976,
+    "answer": "Oranges & lemons",
+    "question": "In rhyme, the bells of St. Clement's speak of these 2 fruits that'll help prevent scurvy",
+    "value": 400,
+    "airdate": "2000-10-19T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 46982,
+    "answer": "Deciduous",
+    "question": "Unlike most of its pine family relatives, the larch is classified as this, as it loses its needles each fall",
+    "value": null,
+    "airdate": "2000-10-19T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 47617,
+    "answer": "Turtle",
+    "question": "Surprisingly, the smooth soft-shell species of this reptile is said to be able to run as fast as a man",
+    "value": 100,
+    "airdate": "2000-09-19T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 47623,
+    "answer": "Magma",
+    "question": "When it flows out of the earth, it becomes lava; when blasted into tiny fragments, it becomes volcanic ash",
+    "value": 200,
+    "airdate": "2000-09-19T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 47629,
+    "answer": "Liquid oxygen",
+    "question": "Common fuels in rockets include liquid hydrogen & LOX, which stands for this",
+    "value": 300,
+    "airdate": "2000-09-19T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 47635,
+    "answer": "Walrus",
+    "question": "This tusked pinniped has air sacs in its neck enabling it to keep its head above water while sleeping",
+    "value": 400,
+    "airdate": "2000-09-19T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 47641,
+    "answer": "Andreas Vesalius",
+    "question": "This 16th century professor at the University of Padua is called the \"Father of Modern Anatomy\"",
+    "value": 500,
+    "airdate": "2000-09-19T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 50045,
+    "answer": "pulley",
+    "question": "This one of the simple machines can be made by using a wheel & a rope",
+    "value": 100,
+    "airdate": "2001-10-30T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 50051,
+    "answer": "yellow",
+    "question": "Manufacturers of fireworks use barium to give off a green color & sodium to produce this color",
+    "value": 200,
+    "airdate": "2001-10-30T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 50057,
+    "answer": "diaphragm",
+    "question": "Inhaling & exhaling result from the contraction of this muscle at the floor of the chest cavity",
+    "value": 300,
+    "airdate": "2001-10-30T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 50063,
+    "answer": "seals",
+    "question": "(Sarah of the Clue Crew at Sea World in San Diego)  In the wild, the polar bear feeds mainly on these, especially the ringed species",
+    "value": 400,
+    "airdate": "2001-10-30T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 50069,
+    "answer": "Sweden",
+    "question": "The elements erbium, terbium, ytterbium & yttrium are named for the town of Ytterby in this country",
+    "value": 500,
+    "airdate": "2001-10-30T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 53675,
+    "answer": "Antarctica",
+    "question": "Today, there are only 2 continental glaciers: one on Greenland & one on this continent",
+    "value": 200,
+    "airdate": "2003-03-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 53681,
+    "answer": "mistletoe",
+    "question": "It's OK to kiss under this parasitic plant; just don't eat the berries -- that could be the kiss of death",
+    "value": 400,
+    "airdate": "2003-03-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 53687,
+    "answer": "typhoon",
+    "question": "The lowest pressure at sea level was 25.69\", measured during one of these tropical storms in the Philippine Sea",
+    "value": 600,
+    "airdate": "2003-03-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 53693,
+    "answer": "python",
+    "question": "The reticulated species, the largest of these snakes, may reach a length of 33 feet",
+    "value": 800,
+    "airdate": "2003-03-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 53699,
+    "answer": "gibbous",
+    "question": "When the moon appears between half & full, it's said to be this, either waxing or waning",
+    "value": null,
+    "airdate": "2003-03-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 59285,
+    "answer": "a sheep",
+    "question": "In 1997 the world said \"Hello Dolly\" to one of these mammals, the first successfully cloned",
+    "value": 200,
+    "airdate": "2004-05-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 59291,
+    "answer": "hibernate",
+    "question": "The poorwill is one of the few species of birds that's known to do this in the winter",
+    "value": 400,
+    "airdate": "2004-05-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 59297,
+    "answer": "the poppy",
+    "question": "Codeine & morphine are both made from opium, which is obtained from a species of this flower",
+    "value": 600,
+    "airdate": "2004-05-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 59303,
+    "answer": "coal",
+    "question": "Lignite, a low-grade type of this rock, is only about 30 percent carbon",
+    "value": 800,
+    "airdate": "2004-05-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 59309,
+    "answer": "fructose",
+    "question": "Sweeter than sucrose, this fruit sugar is found in fruits as well as in honey",
+    "value": 1000,
+    "airdate": "2004-05-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 60994,
+    "answer": "penguin",
+    "question": "The deepest diver among these birds is the emperor species of this, which may dive to 900 feet in the Antarctic waters",
+    "value": 200,
+    "airdate": "2004-03-04T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 61000,
+    "answer": "larva",
+    "question": "A grub is this soft, thick stage of metamorphosis of flies, wasps & beetles",
+    "value": 400,
+    "airdate": "2004-03-04T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 61006,
+    "answer": "amber",
+    "question": "It's the fossilized resin from pine trees",
+    "value": 600,
+    "airdate": "2004-03-04T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 61012,
+    "answer": "calving",
+    "question": "(Sarah of the Clue Crew in Alaska)  This bovine name is given to the process whereby huge chunks of ice break off glaciers, giving birth to icebergs",
+    "value": 800,
+    "airdate": "2004-03-04T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 61018,
+    "answer": "coma",
+    "question": "This cloudy atmosphere containing the nucleus of a comet may reach a diameter of 1 million miles",
+    "value": 1000,
+    "airdate": "2004-03-04T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 62044,
+    "answer": "aardvark",
+    "question": "Alphabetically, it's the first mammal that could be in a \"Starts With 2 Vowels\" category",
+    "value": 200,
+    "airdate": "2003-11-10T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 62056,
+    "answer": "glass",
+    "question": "(Jimmy of the Clue Crew at Cape Cod, Massachusetts)  When lightning strikes the sand, it can melt & fuse it into a type of this, called fulgurite",
+    "value": null,
+    "airdate": "2003-11-10T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 62062,
+    "answer": "inchworm",
+    "question": "From their size, about 2.5 cm. & how they crawl, caterpillars of the moth family Geometridae are often called this",
+    "value": 800,
+    "airdate": "2003-11-10T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 62068,
+    "answer": "elasticity",
+    "question": "This property is the reason a rubber ball bounces & a stretched rubber band springs back to size",
+    "value": 1000,
+    "airdate": "2003-11-10T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 68884,
+    "answer": "the jaguar",
+    "question": "Hunting & forest clearing (not a luxury automaker) have endangered this largest wild cat of the Americas",
+    "value": 200,
+    "airdate": "2004-10-04T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 68890,
+    "answer": "a snail",
+    "question": "Like an escargot, the abalone is an edible one of these gastropods",
+    "value": 400,
+    "airdate": "2004-10-04T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 68896,
+    "answer": "optics",
+    "question": "It's the branch of physics that deals with the nature & properties of light",
+    "value": 600,
+    "airdate": "2004-10-04T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 68902,
+    "answer": "X rays",
+    "question": "Hermann Muller won a 1946 Nobel Prize for proving that the use of these can cause mutations",
+    "value": null,
+    "airdate": "2004-10-04T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 68908,
+    "answer": "crepe",
+    "question": "The flowers on this type of myrtle tree resemble the crinkly paper of the same name",
+    "value": 1000,
+    "airdate": "2004-10-04T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 73207,
+    "answer": "the tail",
+    "question": "This part of the glass snake breaks off to help it escape when grabbed",
+    "value": 200,
+    "airdate": "2006-02-07T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 73213,
+    "answer": "a toadstool",
+    "question": "It's the frog-like term for a poisonous mushroom",
+    "value": 400,
+    "airdate": "2006-02-07T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 73219,
+    "answer": "an arthropod",
+    "question": "Crabs & cockroaches belong to this phylum, from the Greek for \"jointed feet\"",
+    "value": 600,
+    "airdate": "2006-02-07T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 73225,
+    "answer": "cobalt",
+    "question": "This element, symbol Co, was once popular for making invisible ink",
+    "value": 800,
+    "airdate": "2006-02-07T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 73231,
+    "answer": "(Lord) Kelvin",
+    "question": "The absolute temperature scale with its lowest point being zero is named for this scientist who introduced it",
+    "value": null,
+    "airdate": "2006-02-07T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 83918,
+    "answer": "roots",
+    "question": "Mesquite can send these down 60 feet to reach moisture",
+    "value": 200,
+    "airdate": "2008-06-27T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 83924,
+    "answer": "a calorie",
+    "question": "(Jimmy of the Clue Crew lights a peanut on fire.) The oil in the peanut is almost 100 percent fat, which burns & produces energy, a process that's measured by this unit",
+    "value": 400,
+    "airdate": "2008-06-27T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 83930,
+    "answer": "cryogenics",
+    "question": "This physics term refers to the study of the effects of extremely low temperatures",
+    "value": 600,
+    "airdate": "2008-06-27T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 83936,
+    "answer": "a suspension",
+    "question": "(Sarah of the Clue Crew puts salt & pepper in beakers of water.) The molecular structure of salt allows it to dissolve in water; the pepper will only disperse, creating this type of mixture, from the Latin for \"hung up\"",
+    "value": 800,
+    "airdate": "2008-06-27T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 83942,
+    "answer": "negative",
+    "question": "In 1955 physicists Owen Chamberlain & Emilio Segre discovered the antiproton, which has this kind of charge",
+    "value": 1000,
+    "airdate": "2008-06-27T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 99874,
+    "answer": "the Space Shuttle",
+    "question": "In June 1991 weightlessness experiments were conducted on about 2,500 jellyfish aboard this",
+    "value": 200,
+    "airdate": "2009-11-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 99880,
+    "answer": "the Department of Agriculture",
+    "question": "The ARS, an agency of this U.S. government department, is looking to develop better bio-insecticides",
+    "value": 400,
+    "airdate": "2009-11-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 99886,
+    "answer": "a <i>Stegosaurus</i>",
+    "question": "Despite the fierce appearance of this plated beast, scientists believe it to have been an herbivore",
+    "value": 600,
+    "airdate": "2009-11-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 99892,
+    "answer": "gold",
+    "question": "Platinum, atomic number 78, is worth more than this other metal, atomic number 79",
+    "value": 800,
+    "airdate": "2009-11-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    },
+    {
+    "id": 99898,
+    "answer": "Lucy",
+    "question": "In 2009 a new hominid skeleton dubbed Ardi was aged at 4.4 million years, predating this other \"girly\" find by 1 mil. years",
+    "value": 1000,
+    "airdate": "2009-11-24T12:00:00.000Z",
+    "category_id": 218,
+    "game_id": null,
+    "invalid_count": null
+    }
+  ]
+}
