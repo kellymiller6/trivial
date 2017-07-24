@@ -1,0 +1,2007 @@
+{
+    "id": 223,
+    "title": "word origins",
+    "clues_count": 200,
+    "clues": [
+        {
+            "id": 1388,
+            "answer": "=",
+            "question": "=",
+            "value": 100,
+            "airdate": "1985-11-25T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 1394,
+            "answer": "whippersnapper",
+            "question": "This \"impertinent young person\" once had nothing better to do than stand around snapping whips",
+            "value": 200,
+            "airdate": "1985-11-25T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 1400,
+            "answer": "golf",
+            "question": "\"Chicanery\" may have come from cheaters at \"Chicane\", a French variety of this Scottish sport",
+            "value": 300,
+            "airdate": "1985-11-25T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 1406,
+            "answer": "mistress",
+            "question": "While Mr. is the abbreviation for mister, Mrs. is the abbreviation for this \"lady of the house\"",
+            "value": 400,
+            "airdate": "1985-11-25T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 1412,
+            "answer": "parquet",
+            "question": "French for \"little park\" it came to mean a special section of courtroom floor reserved for judges",
+            "value": 500,
+            "airdate": "1985-11-25T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 1508,
+            "answer": "caterpillar",
+            "question": "Though an insect larva, its name comes from French for \u0093hairy cat\u0094",
+            "value": 100,
+            "airdate": "1985-11-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 1514,
+            "answer": "Slavs",
+            "question": "Word \u0093slavery\u0094 comes from these eastern Europeans who were often enslaved by conquerors",
+            "value": 200,
+            "airdate": "1985-11-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 1520,
+            "answer": "shindig",
+            "question": "Term for noisy dance or party which originally meant a kick in the shins",
+            "value": 300,
+            "airdate": "1985-11-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 1526,
+            "answer": "senate",
+            "question": "From same root as \u0093senile\u0094, to Romans this body's name meant a council of old men",
+            "value": 400,
+            "airdate": "1985-11-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 1532,
+            "answer": "dunces",
+            "question": "Though John Duns Scotus was considered a great philosopher, his followers were later called this",
+            "value": 500,
+            "airdate": "1985-11-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 2978,
+            "answer": "rhinestones",
+            "question": "Imitation diamonds, they were originally gems obtained from a certain German river",
+            "value": 100,
+            "airdate": "1986-11-21T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 2984,
+            "answer": "canter",
+            "question": "It's the pace at which Pilgrims rode to Canterbury",
+            "value": 200,
+            "airdate": "1986-11-21T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 2990,
+            "answer": "mah-jong",
+            "question": "The name of this game is Chinese for \"house sparrow\" a picture on one of the tiles",
+            "value": 300,
+            "airdate": "1986-11-21T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 2996,
+            "answer": "brogue",
+            "question": "An Irishman with this accent might be putting his foot in his mouth, because this word means \"shoe\"",
+            "value": 400,
+            "airdate": "1986-11-21T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 3002,
+            "answer": "lens",
+            "question": "The name of this part of a camera was derived from its resemblance to a lentil seed",
+            "value": 500,
+            "airdate": "1986-11-21T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4179,
+            "answer": "bully",
+            "question": "It used to mean sweetheart, but now refers to that big fifth grader who picked on you",
+            "value": 100,
+            "airdate": "1987-11-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4185,
+            "answer": "hand",
+            "question": "The word manage goes back to the Latin \"manus\", the word for this part of the body",
+            "value": 200,
+            "airdate": "1987-11-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4191,
+            "answer": "chum",
+            "question": "This word for pal is said to be Oxford University slang for chamberfellow; a roommate",
+            "value": 300,
+            "airdate": "1987-11-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4197,
+            "answer": "honcho",
+            "question": "This word for boss or head is from a Japanese word meaning squad leader",
+            "value": 400,
+            "airdate": "1987-11-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4203,
+            "answer": "naught",
+            "question": "From Old English \"nay\", no, and \"whit\", thing, this word means zero",
+            "value": 500,
+            "airdate": "1987-11-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4975,
+            "answer": "Red",
+            "question": "The adjective \"ruddy\" comes from the old English \"rudig,\" meaning this color",
+            "value": 100,
+            "airdate": "1988-11-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4981,
+            "answer": "Hollandaise",
+            "question": "It's a French word meaning \"Dutch,\" and in English it usually refers to a sauce",
+            "value": 200,
+            "airdate": "1988-11-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4987,
+            "answer": "Escutcheon",
+            "question": "From the Latin for shield, \"scutum,\" it's a shield bearing a coat of arms",
+            "value": 300,
+            "airdate": "1988-11-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4993,
+            "answer": "Fakir",
+            "question": "An Arabic word for \"poor\" gave us this term for a Muslim or Hindu beggar said to have mystical powers",
+            "value": 400,
+            "airdate": "1988-11-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4999,
+            "answer": "Tulle",
+            "question": "Named for a town in France, this sheer net fabric is used to make bridal veils and tutus",
+            "value": 500,
+            "airdate": "1988-11-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 5575,
+            "answer": "Stein",
+            "question": "This name for an earthenware beer mug is German for \"stone\"",
+            "value": 100,
+            "airdate": "1990-05-14T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 5581,
+            "answer": "Prima donna",
+            "question": "Italian for \"first lady\", it can refer to a temperamental woman or man",
+            "value": 200,
+            "airdate": "1990-05-14T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 5587,
+            "answer": "Vermin",
+            "question": "From the Latin for \"worm\", it's defined simply as \"animals obnoxious to man\"",
+            "value": 300,
+            "airdate": "1990-05-14T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 5593,
+            "answer": "Famine",
+            "question": "From the Latin for \"hunger\", it's a period when food is extremely scarce",
+            "value": 400,
+            "airdate": "1990-05-14T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 5599,
+            "answer": "Tam O\\' Shanter",
+            "question": "This Scottish cap was named for the hero of a Robert Burns poem",
+            "value": 500,
+            "airdate": "1990-05-14T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 7615,
+            "answer": "salon",
+            "question": "\"Saloon\" came from this French word, which sounds more elegant",
+            "value": 100,
+            "airdate": "1989-11-14T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 7621,
+            "answer": "mauve",
+            "question": "Shade of purple whose name comes from a word for mallow because it's the color of mallow petals",
+            "value": 200,
+            "airdate": "1989-11-14T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 7627,
+            "answer": "monopoly",
+            "question": "Derived from the Greek for \"to sell alone\"; if you have one, you alone sell a product",
+            "value": 300,
+            "airdate": "1989-11-14T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 7633,
+            "answer": "hurry (or quick or fast)",
+            "question": "The \"chop\" in \"chopsticks\" means this in Pidgin English, as in \"chop-chop\"",
+            "value": 400,
+            "airdate": "1989-11-14T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 7639,
+            "answer": "dismal",
+            "question": "This synonym for \"gloomy\" comes from a Medieval Latin term for \"evil days\"",
+            "value": null,
+            "airdate": "1989-11-14T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9300,
+            "answer": "auburn",
+            "question": "Though it comes from a Latin word meaning \"whitish\", it refers to a reddish-brown hair color",
+            "value": 100,
+            "airdate": "1992-03-18T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9306,
+            "answer": "George Bernard Shaw",
+            "question": "The term \"Shavian\" was coined by this writer to describe his life, works & ideas",
+            "value": 200,
+            "airdate": "1992-03-18T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9312,
+            "answer": "infantry",
+            "question": "Because they were too young or inexperienced for the cavalry, foot soldiers came to be called this",
+            "value": 300,
+            "airdate": "1992-03-18T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9318,
+            "answer": "animate",
+            "question": "From the Latin word for \"soul\", it means to bring to life, like a cartoon",
+            "value": 400,
+            "airdate": "1992-03-18T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9324,
+            "answer": "ounce & inch",
+            "question": "The two units of measure that derive their names from the Latin word \"uncia\"",
+            "value": 500,
+            "airdate": "1992-03-18T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9778,
+            "answer": "huckleberry",
+            "question": "Mark Twain should have known the name of this fruit may be an alternation of \u0093hurtleberry\u0094",
+            "value": 100,
+            "airdate": "1991-10-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9784,
+            "answer": "penguin",
+            "question": "The name of this \u0093tuxedoed\u0094 bird may come from the Welsh for \u0093white head\u0094",
+            "value": 200,
+            "airdate": "1991-10-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9790,
+            "answer": "Mennonite",
+            "question": "Evangelical Protestant sect named for its founder, Menno Simons",
+            "value": 300,
+            "airdate": "1991-10-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9796,
+            "answer": "marzipan",
+            "question": "Almond paste confection whose name comes from a Medieval Italian coin",
+            "value": 400,
+            "airdate": "1991-10-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9802,
+            "answer": "sister",
+            "question": "Sorority is derived from the Latin \u0093soror\u0094, which means this",
+            "value": 500,
+            "airdate": "1991-10-17T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10380,
+            "answer": "Australia",
+            "question": "Not surprisingly, the word koala comes from a native language of this continent",
+            "value": 100,
+            "airdate": "1993-05-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10386,
+            "answer": "mystery",
+            "question": "This word meaning something not fully understood is from the Greek musterion, \"secret rite\"",
+            "value": 200,
+            "airdate": "1993-05-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10392,
+            "answer": "a sloth",
+            "question": "The name of this 2- or 3-toed mammal comes from Middle English for \"slow\"",
+            "value": 300,
+            "airdate": "1993-05-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10398,
+            "answer": "Buddha",
+            "question": "This title of prince Siddhartha comes from Sanskrit for \"awakening\"",
+            "value": 400,
+            "airdate": "1993-05-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10404,
+            "answer": "leper",
+            "question": "Lepos, meaning \"scale\", gave us this word for a pariah",
+            "value": 500,
+            "airdate": "1993-05-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10447,
+            "answer": "facsimile",
+            "question": "This term for a copy or reproduction is from the Latin meaning \"to make similar\"",
+            "value": 100,
+            "airdate": "1993-04-02T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10453,
+            "answer": "ten",
+            "question": "December, decimal & decimate all come from the Latin word for this",
+            "value": 200,
+            "airdate": "1993-04-02T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10459,
+            "answer": "magic",
+            "question": "Some believe the word gimmick began as gimac, an anagram of this",
+            "value": 300,
+            "airdate": "1993-04-02T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10465,
+            "answer": "soccer",
+            "question": "This sport derives its name from the word association, as in association football",
+            "value": 400,
+            "airdate": "1993-04-02T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10471,
+            "answer": "haughty",
+            "question": "Meaning vain & above oneself, this adjective comes from the Middle French for \"high\"",
+            "value": null,
+            "airdate": "1993-04-02T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10869,
+            "answer": "Thimble",
+            "question": "The name of this small metal fingercap is derived from an Old English word for thumb",
+            "value": 100,
+            "airdate": "1992-11-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10875,
+            "answer": "Bugle",
+            "question": "The name of this military horn comes from the Latin for \"young ox\" since the first ones were ox horns",
+            "value": 200,
+            "airdate": "1992-11-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10881,
+            "answer": "sheik",
+            "question": "From Arabic for \"old man\", it's the leader of an Arab family, tribe, or village",
+            "value": 300,
+            "airdate": "1992-11-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10887,
+            "answer": "Porcupine",
+            "question": "This mammal's name comes from the corruption of a French phrase which meant \"phony pig\"",
+            "value": 400,
+            "airdate": "1992-11-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10893,
+            "answer": "Kegler",
+            "question": "This term for a person who bowls is derived from the German word for \"bowling pin\"",
+            "value": 500,
+            "airdate": "1992-11-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11440,
+            "answer": "sawbuck",
+            "question": "It's the nickname of a $10 bill, because the Roman numeral X on it looked like a sawhorse",
+            "value": 100,
+            "airdate": "1992-09-15T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11446,
+            "answer": "poodle",
+            "question": "The name of this breed of dog comes from the Low German for \"puddle dog\"",
+            "value": 200,
+            "airdate": "1992-09-15T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11452,
+            "answer": "venom",
+            "question": "This term for the poisonous secretion of a snake comes from Latin for \"poison\"",
+            "value": 300,
+            "airdate": "1992-09-15T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11458,
+            "answer": "pekoe",
+            "question": "Grade of black tea whose name comes from Chinese meaning \"white dawn\"",
+            "value": 400,
+            "airdate": "1992-09-15T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11464,
+            "answer": "velvet",
+            "question": "The name of this dense-pile fabric comes from the Latin villus, meaning \"shaggy hair\"",
+            "value": 500,
+            "airdate": "1992-09-15T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 12700,
+            "answer": "Boutonniere",
+            "question": "This term for a flower worn in a buttonhole is literally French for \"buttonhole\"",
+            "value": 100,
+            "airdate": "1994-11-24T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 12706,
+            "answer": "Jiu-Jitsu",
+            "question": "Judo is Japanese for \"soft way\" & this self-defense form is Japanese for \"soft art\"",
+            "value": 200,
+            "airdate": "1994-11-24T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 12712,
+            "answer": "Cymbal",
+            "question": "The word chime comes from the name of this other percussion instrument",
+            "value": 300,
+            "airdate": "1994-11-24T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 12718,
+            "answer": "Blasphemy",
+            "question": "From a Greek word meaning \"to speak ill of\", it's irreverent talk of God",
+            "value": 400,
+            "airdate": "1994-11-24T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 12724,
+            "answer": "Samovar",
+            "question": "The name of this Russian urn used to heat water for tea is Russian for \"self-boiler\"",
+            "value": 500,
+            "airdate": "1994-11-24T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19479,
+            "answer": "Kilt",
+            "question": "The name of this skirt isn't Scottish in origin; it may come from the Danish for \"to tuck up\"",
+            "value": 100,
+            "airdate": "1996-12-13T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19485,
+            "answer": "Boulevard",
+            "question": "This term for a broad street is French, but it goes back to bolwerc, a Middle Dutch word for bulwark",
+            "value": 200,
+            "airdate": "1996-12-13T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19491,
+            "answer": "Bat",
+            "question": "The adjective vespertilian means resembling this winged mammal, whose Latin name is vespertilio",
+            "value": 300,
+            "airdate": "1996-12-13T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19497,
+            "answer": "Chutney",
+            "question": "This fruity condiment's name comes from the Hindi meaning \"to be licked\"",
+            "value": 400,
+            "airdate": "1996-12-13T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19503,
+            "answer": "Loupe",
+            "question": "The name of this small magnifying glass used by jewelers comes from the French for an imperfect gem",
+            "value": null,
+            "airdate": "1996-12-13T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19867,
+            "answer": "anesthesia",
+            "question": "Local or general, this medical term comes from Greek meaning \"insensibility\"",
+            "value": 100,
+            "airdate": "1996-11-25T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19873,
+            "answer": "rockabilly",
+            "question": "The name of this type of popular music combines \"hillbilly\" & \"rock & roll\"",
+            "value": 200,
+            "airdate": "1996-11-25T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19879,
+            "answer": "Scuba",
+            "question": "This word is derived from \"self-contained underwater breathing apparatus\"",
+            "value": 300,
+            "airdate": "1996-11-25T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19885,
+            "answer": "Bystander",
+            "question": "This term for a chance spectator innocently came into our language by 1620",
+            "value": 400,
+            "airdate": "1996-11-25T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19891,
+            "answer": "Digit",
+            "question": "This word for any of the 10 Arabic number symbols comes from the Latin word for \"finger\"",
+            "value": 500,
+            "airdate": "1996-11-25T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 24100,
+            "answer": "crayfish",
+            "question": "The Middle French word for this freshwater crustacean was \"crevice\", which evolved into our English word",
+            "value": 100,
+            "airdate": "1998-02-12T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 24106,
+            "answer": "the Hansom Cab",
+            "question": "This 19th century vehicle seen here was named for its designer, not its good looks",
+            "value": 200,
+            "airdate": "1998-02-12T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 24112,
+            "answer": "cowslip",
+            "question": "This primrose's name comes from the Old English for \"cow slime\" & sounds pretty similar",
+            "value": 300,
+            "airdate": "1998-02-12T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 24118,
+            "answer": "jackstraws",
+            "question": "This game in which players pick up sticks or straws is named for a leader of Wat Tyler's Rebellion",
+            "value": 400,
+            "airdate": "1998-02-12T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 24124,
+            "answer": "walnut",
+            "question": "Whether it's \"English\" or not, the name of this nut comes from Old English for \"foreign nut\"",
+            "value": 500,
+            "airdate": "1998-02-12T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 32587,
+            "answer": "Bouquet",
+            "question": "An old French word for \"thicket\" gave us this word for something tossed by a bride",
+            "value": 100,
+            "airdate": "1998-12-02T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 32593,
+            "answer": "Mascot",
+            "question": "From a Provencal word for \"witch\", it's a sports team's good-luck symbol",
+            "value": 200,
+            "airdate": "1998-12-02T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 32599,
+            "answer": "Hammock",
+            "question": "This word for a swinging cot is derived from Spanish & from the Taino language of the West Indies",
+            "value": 300,
+            "airdate": "1998-12-02T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 32605,
+            "answer": "Ascend",
+            "question": "From middle English & Latin for \"toward\" & \"to climb\", one does it to a staircase or the throne",
+            "value": 400,
+            "airdate": "1998-12-02T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 32611,
+            "answer": "Knave",
+            "question": "From old English for a male servant or a boy, it's a synonym for a jack in a deck of cards",
+            "value": 500,
+            "airdate": "1998-12-02T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 33907,
+            "answer": "Sugar",
+            "question": "This word entered the English language in the 13th century as \"sucre\"",
+            "value": 100,
+            "airdate": "1998-09-30T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 33913,
+            "answer": "Genoa",
+            "question": "Jeans were named for this Italian city where a strong twilled cotton cloth was made",
+            "value": 200,
+            "airdate": "1998-09-30T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 33919,
+            "answer": "Nostalgia",
+            "question": "From the Greek nostos, \"A return home\", & algos, \"pain\", it's the pain you experience when remembering",
+            "value": 300,
+            "airdate": "1998-09-30T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 33925,
+            "answer": "Xylophone",
+            "question": "Greek for \"wood sound\", this instrument's name refers to its tuned wooden bars",
+            "value": 400,
+            "airdate": "1998-09-30T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 33931,
+            "answer": "Tomboy",
+            "question": "Originally, it referred to a boisterous, rude lad, not a young girl who behaves like a lad as it does now",
+            "value": 500,
+            "airdate": "1998-09-30T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 48400,
+            "answer": "geek",
+            "question": "Once a carnival performer who bit the heads off chickens, today it often refers to a computer nerd",
+            "value": 200,
+            "airdate": "2002-05-31T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 48406,
+            "answer": "leotard",
+            "question": "This snug-fitting one-piece garment used by dancers was invented by, & named for, a French aerialist",
+            "value": 400,
+            "airdate": "2002-05-31T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 48412,
+            "answer": "malaria",
+            "question": "This disease's name is from the Italian for \"bad air\"; it was first thought to be caused by foul swamp air, not mosquitoes",
+            "value": 600,
+            "airdate": "2002-05-31T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 48418,
+            "answer": "endowment",
+            "question": "From a word meaning \"gift\" Yale's passed the $10 billion mark in 2000",
+            "value": 800,
+            "airdate": "2002-05-31T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 48424,
+            "answer": "introspection",
+            "question": "Self-examination; literally, \"a looking into oneself\"",
+            "value": 1000,
+            "airdate": "2002-05-31T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 60039,
+            "answer": "vodka",
+            "question": "The name of this colorless Russian spirit is a diminutive of the Russian word for \"water\", itself a colorless liquid",
+            "value": 200,
+            "airdate": "2004-04-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 60045,
+            "answer": "the Gestapo",
+            "question": "It was derived from 3 German words that meant \"secret state police\", & that certainly describes it",
+            "value": 400,
+            "airdate": "2004-04-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 60051,
+            "answer": "crevasse",
+            "question": "(Sarah of the Clue Crew in Alaska)  From the Old French for \"crack\", this V-shaped crack in a glacier may be up to 150 feet deep",
+            "value": 600,
+            "airdate": "2004-04-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 60057,
+            "answer": "Sputnik",
+            "question": "First launched on October 4, 1957, its name is Russian for \"fellow traveler\"",
+            "value": 800,
+            "airdate": "2004-04-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 60063,
+            "answer": "elderberry",
+            "question": "People who cultivated this fruit often used to make wine were said to live to a ripe old age; hence its name",
+            "value": null,
+            "airdate": "2004-04-19T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 65257,
+            "answer": "taboo",
+            "question": "The English borrowed this Tongan word for \"forbidden\" & made it a noun referring to the prohibition itself",
+            "value": 200,
+            "airdate": "2005-03-22T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 65263,
+            "answer": "plumber",
+            "question": "The name for this type of worker comes from the Latin for \"lead worker\"",
+            "value": 400,
+            "airdate": "2005-03-22T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 65269,
+            "answer": "limbo",
+            "question": "This word used in Roman Catholic theology comes from the Latin for \"edge\" or \"border\" not \"dance\"",
+            "value": 600,
+            "airdate": "2005-03-22T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 65275,
+            "answer": "ostracism",
+            "question": "(Sarah of the Clue Crew reports from Naxos, Greece.)  Ostraka, broken pieces of pottery used as ballots to recommend exile gave us this word for banishment",
+            "value": 800,
+            "airdate": "2005-03-22T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 65281,
+            "answer": "melancholy",
+            "question": "This word for a prolonged state of sadness comes from the Greek for \"black bile\" (once thought to be it's cause)",
+            "value": 1000,
+            "airdate": "2005-03-22T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67838,
+            "answer": "balsa",
+            "question": "This light wood gets its name from the Spanish for \"raft\" because people in the tropics have used its logs for rafts",
+            "value": 200,
+            "airdate": "2004-11-22T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67844,
+            "answer": "colossal",
+            "question": "The gigantic statue at Rhodes, one of the 7 ancient wonders, gave us this adjective meaning gigantic",
+            "value": 400,
+            "airdate": "2004-11-22T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67850,
+            "answer": "a caddy",
+            "question": "Originally used to designate an errand boy, it was introduced into Scotland by golfer Mary, Queen of Scots",
+            "value": 600,
+            "airdate": "2004-11-22T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67856,
+            "answer": "jot",
+            "question": "The Greek word \"iota\" gave us this 3-letter word that means to write down hastily",
+            "value": 800,
+            "airdate": "2004-11-22T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67862,
+            "answer": "galoshes",
+            "question": "They got their name from the wooden sandals worn by the French court to protect shoes on rainy days",
+            "value": 1000,
+            "airdate": "2004-11-22T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 68859,
+            "answer": "maestro",
+            "question": "A masterful conductor is often called this, Italian for \"master\"",
+            "value": 200,
+            "airdate": "2004-10-05T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 68865,
+            "answer": "parrot",
+            "question": "The name of this bird is from the French version of Peter",
+            "value": 400,
+            "airdate": "2004-10-05T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 68871,
+            "answer": "skeleton",
+            "question": "Make no bones about it, it's from a Greek expression for \"dried-up body\"",
+            "value": 600,
+            "airdate": "2004-10-05T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 68877,
+            "answer": "(Ernst) Mach",
+            "question": "This Austrian physicist's name is now synonymous with a measurement of the speed of sound",
+            "value": 800,
+            "airdate": "2004-10-05T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 68883,
+            "answer": "nix",
+            "question": "This 3-letter slang term for forbid or veto comes to us from the German for \"nothing\"",
+            "value": 1000,
+            "airdate": "2004-10-05T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73179,
+            "answer": "a dandelion",
+            "question": "This lawn weed's name comes from the old French for \"tooth of the lion\", referring to its sharply indented leaves",
+            "value": 200,
+            "airdate": "2006-02-08T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73185,
+            "answer": "a cafeteria",
+            "question": "This word for a self-service restaurant evolved from the Spanish for \"coffee shop\"",
+            "value": 400,
+            "airdate": "2006-02-08T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73191,
+            "answer": "intramural",
+            "question": "Latin for \"within the walls\", it refers to athletic contests among students within a school",
+            "value": 600,
+            "airdate": "2006-02-08T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73197,
+            "answer": "a coroner",
+            "question": "Originally one who kept legal records for the crown, now it's a public officer who investigates deaths",
+            "value": null,
+            "airdate": "2006-02-08T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73203,
+            "answer": "pumice",
+            "question": "The name of this foamy volcanic rock is an alteration of the Latin word meaning \"foam\"",
+            "value": 1000,
+            "airdate": "2006-02-08T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73809,
+            "answer": "sesame seeds",
+            "question": "The name of these seeds probably goes all the way back to samassammu, Akkadian for \"oil plant\"",
+            "value": 200,
+            "airdate": "2006-01-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73815,
+            "answer": "tally-ho",
+            "question": "This fox-hunting cry may be an alteration of taiaut, a French cry used in deer hunting",
+            "value": 400,
+            "airdate": "2006-01-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73821,
+            "answer": "pleat",
+            "question": "A Middle English variant of \"plait\" became the name of these folds found on skirts",
+            "value": 600,
+            "airdate": "2006-01-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73827,
+            "answer": "nautilus",
+            "question": "A Greek word for \"sailor\" gave us the name of this \"chambered\" sea creature",
+            "value": 800,
+            "airdate": "2006-01-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73833,
+            "answer": "a skirmish",
+            "question": "This term for a minor engagement in war traces its origins back to the old Italian word scaramuccia",
+            "value": 1000,
+            "airdate": "2006-01-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76089,
+            "answer": "wimp",
+            "question": "This common term for a weak, ineffectual person may be derived from \"whimper\"",
+            "value": 200,
+            "airdate": "2005-09-26T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76095,
+            "answer": "mush",
+            "question": "This word said to sled dogs may be an alteration of the French marchons, meaning \"let's go\"",
+            "value": 400,
+            "airdate": "2005-09-26T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76101,
+            "answer": "London",
+            "question": "Billingsgate, a term for foul language, comes from the name of an old fish market in this world capital",
+            "value": 600,
+            "airdate": "2005-09-26T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76107,
+            "answer": "matron",
+            "question": "From the Latin for \"mother\", it's a female prison worker who may be less than maternal",
+            "value": 800,
+            "airdate": "2005-09-26T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76113,
+            "answer": "strobe lights",
+            "question": "Take a whirl on the dance floor under these lights whose name comes from the Greek for the \"act of whirling\"",
+            "value": 1000,
+            "airdate": "2005-09-26T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78069,
+            "answer": "vertebrae",
+            "question": "The name of these bones that form the spinal column comes partly from a word meaning \"to turn\"",
+            "value": 200,
+            "airdate": "2007-05-11T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78075,
+            "answer": "an opinion",
+            "question": "This, a personal view or belief, comes from the Old French for \"to think\"",
+            "value": 400,
+            "airdate": "2007-05-11T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78081,
+            "answer": "the reptile",
+            "question": "The name of this class of cold-blooded creatures comes from a word for \"to creep\"",
+            "value": 600,
+            "airdate": "2007-05-11T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78087,
+            "answer": "the poodle",
+            "question": "This dog breed's name comes from a German word for \"to splash about\"",
+            "value": 800,
+            "airdate": "2007-05-11T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78093,
+            "answer": "eponymous",
+            "question": "Appropriately, this adjective that means the giving of one's name to something comes from the Greek for \"giving name\"",
+            "value": null,
+            "airdate": "2007-05-11T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 80949,
+            "answer": "mannequin",
+            "question": "This kind of dummy often displays women's clothes, though its name comes from the Dutch for \"little man\"",
+            "value": 200,
+            "airdate": "2006-12-28T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 80961,
+            "answer": "hurdy-gurdy",
+            "question": "This musical instrument's name may be influenced by \"hurly-burly\", a Scots word meaning \"uproar\".",
+            "value": 600,
+            "airdate": "2006-12-28T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 80967,
+            "answer": "pagoda",
+            "question": "This type of tower is usually seen in Asia, but its name comes from a Portuguese word for \"temple\"",
+            "value": 800,
+            "airdate": "2006-12-28T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 80973,
+            "answer": "marzipan",
+            "question": "The name of this almond paste confection is derived in part from an Italian word for \"candy box\"",
+            "value": 1000,
+            "airdate": "2006-12-28T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 84817,
+            "answer": "the yolk",
+            "question": "This part of an egg gets its name from the Old English for \"yellow\"",
+            "value": 200,
+            "airdate": "2008-05-16T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 84823,
+            "answer": "summer",
+            "question": "This season gets its name from the Sanskrit for \"half year\"",
+            "value": 400,
+            "airdate": "2008-05-16T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 84829,
+            "answer": "zenith",
+            "question": "The opposite of nadir, it's from the Arabic for \"road above\"",
+            "value": 600,
+            "airdate": "2008-05-16T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 84835,
+            "answer": "calcium",
+            "question": "The name of this element is from the Latin word for \"lime\", the chemical kind",
+            "value": 800,
+            "airdate": "2008-05-16T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 84841,
+            "answer": "the xylophone",
+            "question": "The name of this musical instrument comes from Greek words for \"wood\" and \"voice\"",
+            "value": 1000,
+            "airdate": "2008-05-16T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86859,
+            "answer": "a hydrant",
+            "question": "The name of this, also called a fireplug, is partly from a word for \"water\"",
+            "value": 200,
+            "airdate": "2008-02-12T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86865,
+            "answer": "butter",
+            "question": "The name of this bread spread goes all the way back to bous, a Greek word for \"cow\"",
+            "value": 400,
+            "airdate": "2008-02-12T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86871,
+            "answer": "rhinestones",
+            "question": "These sparkly fake gems are partly named for a river that flows through Germany",
+            "value": 600,
+            "airdate": "2008-02-12T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86877,
+            "answer": "an encyclopedia",
+            "question": "The name of this type of reference work is from the Greek for \"cyclical\" (i.e., well-rounded) & \"education\"",
+            "value": null,
+            "airdate": "2008-02-12T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86883,
+            "answer": "a query",
+            "question": "This 5-letter synonym of \"question\" comes from the Latin for \"to ask\" or \"to seek\"",
+            "value": 1000,
+            "airdate": "2008-02-12T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 102159,
+            "answer": "Wednesday",
+            "question": "Aka hump day, it was named for a Norse god",
+            "value": 200,
+            "airdate": "2011-06-27T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 102165,
+            "answer": "the jackal",
+            "question": "The Persian shaghal gave us the name of this dog-like African carnivore & scavenger",
+            "value": 400,
+            "airdate": "2011-06-27T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 102171,
+            "answer": "act",
+            "question": "The word \"drama\" comes from the Greek for this verb, which as a noun also means one section of a drama",
+            "value": 600,
+            "airdate": "2011-06-27T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 102177,
+            "answer": "petulant",
+            "question": "Peevish or unreasonably irritable, it's from the Latin petere, meaning \"to assail\"",
+            "value": null,
+            "airdate": "2011-06-27T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 102183,
+            "answer": "the eucalyptus",
+            "question": "The name of this gum tree comes from the Greek kaluptein, or \"cover\", & it covers more than 500 species",
+            "value": 1000,
+            "airdate": "2011-06-27T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 110345,
+            "answer": "a parka",
+            "question": "The name of this heavy hooded jacket favored by skiers & hunters is from the Russian for \"pelt\"",
+            "value": 200,
+            "airdate": "2012-05-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 110351,
+            "answer": "a mirage",
+            "question": "A ship in the desert? No, it's just this optical illusion from the French for \"to look at\"",
+            "value": 400,
+            "airdate": "2012-05-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 110357,
+            "answer": "a vandal",
+            "question": "This term for one who willfully destroys another's property comes from the name of a Germanic tribe",
+            "value": 600,
+            "airdate": "2012-05-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 110363,
+            "answer": "antebellum",
+            "question": "Used to describe stately mansions of the old south, it's from the Latin for \"before the war\"",
+            "value": 800,
+            "airdate": "2012-05-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 110369,
+            "answer": "a consensus",
+            "question": "The general agreement is that this word meaning a majority of opinion is from the Latin for \"to feel together\"",
+            "value": 1000,
+            "airdate": "2012-05-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 113196,
+            "answer": "sassy",
+            "question": "This adjective that can mean disrespectful or lively is an alteration of \"saucy\"",
+            "value": 200,
+            "airdate": "2011-12-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 113202,
+            "answer": "the ballot",
+            "question": "This, from Middle French for \"small ball\", is stronger than the bullet, which is from modern French for \"small ball\"",
+            "value": 400,
+            "airdate": "2011-12-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 113208,
+            "answer": "bodacious",
+            "question": "First appearing more than a century ago, it means gutsy & is probably a blend of bold & audacious",
+            "value": 600,
+            "airdate": "2011-12-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 113214,
+            "answer": "a Hansom cab",
+            "question": "This 19th century 2-wheeled cab was named for a Brit, not for its good looks",
+            "value": 800,
+            "airdate": "2011-12-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 113220,
+            "answer": "foolscap",
+            "question": "This nickname for paper measuring 13 by 16 inches gets its name from an old watermark of a court jester's hat",
+            "value": 1000,
+            "airdate": "2011-12-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 121566,
+            "answer": "sumo",
+            "question": "This form of big-guy wrestling takes its name from the Japanese for \"mutual strike\"",
+            "value": 200,
+            "airdate": "2012-10-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 121578,
+            "answer": "sinister",
+            "question": "This adjective meaning \"evil\" comes from the Latin for \"left hand\"",
+            "value": 600,
+            "airdate": "2012-10-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 121584,
+            "answer": "a curfew",
+            "question": "This word meaning an hour to be home comes from the French for \"cover the fire\"",
+            "value": 800,
+            "airdate": "2012-10-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 121572,
+            "answer": "filter (or filtration)",
+            "question": "(Kelly of the Clue Crew presents the clue.)  From the Latin for \"piece of felt\", it's the process of separating a solid out of a liquid using a membrane",
+            "value": 400,
+            "airdate": "2012-10-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": 1
+        },
+        {
+            "id": 121590,
+            "answer": "ketchup",
+            "question": "This condiment gets its name from the Chinese for \"pickled fish brine\"",
+            "value": 1000,
+            "airdate": "2012-10-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 128156,
+            "answer": "plagiarism",
+            "question": "From the Latin for \"kidnapping\", it's stealing the ideas or writings of another & passing them off as your own",
+            "value": 200,
+            "airdate": "2013-11-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 128162,
+            "answer": "Mandarin",
+            "question": "The name of this official Chinese language comes from the Sanskrit for \"counselor\"",
+            "value": 400,
+            "airdate": "2013-11-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 128168,
+            "answer": "a dashboard",
+            "question": "Before it had instrument readouts, it was a panel that kept mud from splashing into horse-drawn vehicles",
+            "value": 600,
+            "airdate": "2013-11-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 128174,
+            "answer": "a loupe",
+            "question": "The name of this small magnifying glass used by jewellers is from a French term for a flawed gem",
+            "value": 800,
+            "airdate": "2013-11-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 128180,
+            "answer": "aegis",
+            "question": "In mythology it's the shield of Zeus; it also means protection or sponsorship",
+            "value": 1000,
+            "airdate": "2013-11-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 133912,
+            "answer": "a parka",
+            "question": "The name of this heavy hooded jacket favored by skiers & hunters is from the Russian for \"pelt\"",
+            "value": 200,
+            "airdate": "2012-05-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3885,
+            "invalid_count": null
+        },
+        {
+            "id": 133918,
+            "answer": "a mirage",
+            "question": "A ship in the desert? No, it's just this optical illusion from the French for \"to look at\"",
+            "value": 400,
+            "airdate": "2012-05-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3885,
+            "invalid_count": null
+        },
+        {
+            "id": 133924,
+            "answer": "a vandal",
+            "question": "This term for one who willfully destroys another's property comes from the name of a Germanic tribe",
+            "value": 600,
+            "airdate": "2012-05-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3885,
+            "invalid_count": null
+        },
+        {
+            "id": 133930,
+            "answer": "antebellum",
+            "question": "Used to describe stately mansions of the old south, it's from the Latin for \"before the war\"",
+            "value": 800,
+            "airdate": "2012-05-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3885,
+            "invalid_count": null
+        },
+        {
+            "id": 133936,
+            "answer": "a consensus",
+            "question": "The general agreement is that this word meaning a majority of opinion is from the Latin for \"to feel together\"",
+            "value": 1000,
+            "airdate": "2012-05-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3885,
+            "invalid_count": null
+        },
+        {
+            "id": 136763,
+            "answer": "sassy",
+            "question": "This adjective that can mean disrespectful or lively is an alteration of \"saucy\"",
+            "value": 200,
+            "airdate": "2011-12-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3787,
+            "invalid_count": null
+        },
+        {
+            "id": 136769,
+            "answer": "the ballot",
+            "question": "This, from Middle French for \"small ball\", is stronger than the bullet, which is from modern French for \"small ball\"",
+            "value": 400,
+            "airdate": "2011-12-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3787,
+            "invalid_count": null
+        },
+        {
+            "id": 136775,
+            "answer": "bodacious",
+            "question": "First appearing more than a century ago, it means gutsy & is probably a blend of bold & audacious",
+            "value": 600,
+            "airdate": "2011-12-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3787,
+            "invalid_count": null
+        },
+        {
+            "id": 136781,
+            "answer": "a Hansom cab",
+            "question": "This 19th century 2-wheeled cab was named for a Brit, not for its good looks",
+            "value": 800,
+            "airdate": "2011-12-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3787,
+            "invalid_count": null
+        },
+        {
+            "id": 136787,
+            "answer": "foolscap",
+            "question": "This nickname for paper measuring 13 by 16 inches gets its name from an old watermark of a court jester's hat",
+            "value": 1000,
+            "airdate": "2011-12-20T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3787,
+            "invalid_count": null
+        },
+        {
+            "id": 145133,
+            "answer": "sumo",
+            "question": "This form of big-guy wrestling takes its name from the Japanese for \"mutual strike\"",
+            "value": 200,
+            "airdate": "2012-10-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3988,
+            "invalid_count": null
+        },
+        {
+            "id": 145145,
+            "answer": "sinister",
+            "question": "This adjective meaning \"evil\" comes from the Latin for \"left hand\"",
+            "value": 600,
+            "airdate": "2012-10-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3988,
+            "invalid_count": null
+        },
+        {
+            "id": 145151,
+            "answer": "a curfew",
+            "question": "This word meaning an hour to be home comes from the French for \"cover the fire\"",
+            "value": 800,
+            "airdate": "2012-10-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3988,
+            "invalid_count": null
+        },
+        {
+            "id": 145157,
+            "answer": "ketchup",
+            "question": "This condiment gets its name from the Chinese for \"pickled fish brine\"",
+            "value": 1000,
+            "airdate": "2012-10-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3988,
+            "invalid_count": null
+        },
+        {
+            "id": 151525,
+            "answer": "plagiarism",
+            "question": "From the Latin for \"kidnapping\", it's stealing the ideas or writings of another & passing them off as your own",
+            "value": 200,
+            "airdate": "2013-11-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 4342,
+            "invalid_count": null
+        },
+        {
+            "id": 151531,
+            "answer": "Mandarin",
+            "question": "The name of this official Chinese language comes from the Sanskrit for \"counselor\"",
+            "value": 400,
+            "airdate": "2013-11-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 4342,
+            "invalid_count": null
+        },
+        {
+            "id": 151537,
+            "answer": "a dashboard",
+            "question": "Before it had instrument readouts, it was a panel that kept mud from splashing into horse-drawn vehicles",
+            "value": 600,
+            "airdate": "2013-11-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 4342,
+            "invalid_count": null
+        },
+        {
+            "id": 151543,
+            "answer": "a loupe",
+            "question": "The name of this small magnifying glass used by jewellers is from a French term for a flawed gem",
+            "value": 800,
+            "airdate": "2013-11-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 4342,
+            "invalid_count": null
+        },
+        {
+            "id": 151549,
+            "answer": "aegis",
+            "question": "In mythology it's the shield of Zeus; it also means protection or sponsorship",
+            "value": 1000,
+            "airdate": "2013-11-01T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 4342,
+            "invalid_count": null
+        },
+        {
+            "id": 80955,
+            "answer": "alphabet",
+            "question": "(Sarah of the Clue Crew helps with an image on a monitor.)  The pair of Greek letters seen here inspired this eight-letter English word that's a cornerstone of the English language",
+            "value": null,
+            "airdate": "2006-12-28T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": null,
+            "invalid_count": 12
+        },
+        {
+            "id": 145139,
+            "answer": "filter (or filtration)",
+            "question": "(Kelly of the Clue Crew presents the clue.)  From the Latin for \"piece of felt\", it's the process of separating a solid out of a liquid using a membrane",
+            "value": 400,
+            "airdate": "2012-10-10T12:00:00.000Z",
+            "category_id": 223,
+            "game_id": 3988,
+            "invalid_count": 1
+        }
+    ]
+}
