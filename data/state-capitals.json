@@ -1,0 +1,2307 @@
+{
+    "id": 109,
+    "title": "state capitals",
+    "clues_count": 230,
+    "clues": [
+        {
+            "id": 691,
+            "answer": "Connecticut",
+            "question": "Until 1875 its dual capitals were New Haven & Hartford",
+            "value": 100,
+            "airdate": "1984-09-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 697,
+            "answer": "Santa Fe",
+            "question": "This N.M. town is the oldest city that's a state capital",
+            "value": 200,
+            "airdate": "1984-09-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 703,
+            "answer": "Trenton",
+            "question": "Crossing the Delaware on Xmas, 1776, Washington defeated the Hessians at this N.J. capital",
+            "value": 300,
+            "airdate": "1984-09-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 709,
+            "answer": "Denver",
+            "question": "It actually is 5,280 feet above sea level",
+            "value": 400,
+            "airdate": "1984-09-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 715,
+            "answer": "Providence",
+            "question": "The name shows its founder, Roger Williams, believed God led him there",
+            "value": 500,
+            "airdate": "1984-09-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10448,
+            "answer": "Hartford, Connecticut",
+            "question": "It was named for Hertford, England",
+            "value": 100,
+            "airdate": "1993-04-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10454,
+            "answer": "Augusta",
+            "question": "This capital city of Maine lies on both sides of the Kennebec River",
+            "value": 200,
+            "airdate": "1993-04-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10460,
+            "answer": "Bismarck (North Dakota)",
+            "question": "Originally called Edwinton, it was renamed in 1873 to honor Germany's \"Iron Chancellor\"",
+            "value": 300,
+            "airdate": "1993-04-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10466,
+            "answer": "Denver",
+            "question": "Founded by gold prospectors, it's situated about 5,280 feet above sea level",
+            "value": 400,
+            "airdate": "1993-04-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10472,
+            "answer": "Montgomery, Alabama",
+            "question": "The Confederate States of America were founded in this capital city on February 4, 1861",
+            "value": 500,
+            "airdate": "1993-04-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10959,
+            "answer": "Little Rock",
+            "question": "The 40-story TCBY Towers office building in this city is Arkansas' tallest building",
+            "value": 100,
+            "airdate": "1992-11-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10965,
+            "answer": "Baton Rouge",
+            "question": "It's the state capital in which Huey Long is buried",
+            "value": 200,
+            "airdate": "1992-11-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10971,
+            "answer": "Denver",
+            "question": "Stapleton International Airport in this capital is one of the USA's busiest",
+            "value": 300,
+            "airdate": "1992-11-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10977,
+            "answer": "Albany, New York",
+            "question": "It's the eastern terminus of the Erie Canal",
+            "value": null,
+            "airdate": "1992-11-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 10983,
+            "answer": "Lincoln, Nebraska",
+            "question": "The home of William Jennings Bryan is preserved in this state capital where he lived from 1887-1921",
+            "value": 500,
+            "airdate": "1992-11-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11436,
+            "answer": "Boston",
+            "question": "Among the notable buildings in this capital city are Quincy Market, Faneuil Hall & Paul Revere's house",
+            "value": 100,
+            "airdate": "1992-09-15T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11442,
+            "answer": "Bismarck",
+            "question": "The state capitol in this North Dakota city is called the \"Skyscraper of the Prairies\"",
+            "value": 200,
+            "airdate": "1992-09-15T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11448,
+            "answer": "Carson City",
+            "question": "Founded in 1865, the Nevada Appeal in this city is the state's oldest daily newspaper",
+            "value": 300,
+            "airdate": "1992-09-15T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11454,
+            "answer": "Honolulu",
+            "question": "It's been called the \"Crossroads of the Pacific\"",
+            "value": 400,
+            "airdate": "1992-09-15T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11460,
+            "answer": "Oklahoma City",
+            "question": "This state capital is served by Will Rogers World Airport",
+            "value": null,
+            "airdate": "1992-09-15T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 12665,
+            "answer": "Baton Rouge",
+            "question": "Built in 1792, St. Joseph's Cathedral is the oldest church in this Louisiana capital",
+            "value": 100,
+            "airdate": "1994-11-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 12671,
+            "answer": "Annapolis",
+            "question": "It was once called Anne Arundel Town after the wife of the 2nd Lord Baltimore",
+            "value": 200,
+            "airdate": "1994-11-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 12677,
+            "answer": "Topeka",
+            "question": "This Kansas city's zoological park boasts a tropical rain forest habitat",
+            "value": 300,
+            "airdate": "1994-11-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 12683,
+            "answer": "Oklahoma City",
+            "question": "You can visit the Rodeo Hall of Fame at the National Cowboy Hall of Fame in this city",
+            "value": 400,
+            "airdate": "1994-11-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 12689,
+            "answer": "Juneau, Alaska",
+            "question": "This city covers 3,108 square miles, making it the largest state capital in area in the U.S.",
+            "value": 500,
+            "airdate": "1994-11-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 12995,
+            "answer": "Madison",
+            "question": "Mendota, Monona, Kegonsa & Waubesa are the \"Four Lakes\" of this Wisconsin Capital",
+            "value": 100,
+            "airdate": "1994-11-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 13001,
+            "answer": "Trenton",
+            "question": "It's the capital of the \"Garden State\"",
+            "value": 200,
+            "airdate": "1994-11-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 13007,
+            "answer": "Lansing",
+            "question": "In October an apple butter festival is held at the Carl G. Fenner Arboretum in this Michigan capital",
+            "value": 300,
+            "airdate": "1994-11-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 13013,
+            "answer": "Montpelier (Vermont)",
+            "question": "It's nicknamed the \"Green Mountain City\"",
+            "value": 400,
+            "airdate": "1994-11-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 13019,
+            "answer": "Juneau, Alaska",
+            "question": "The Gastineau Salmon Hatchery is an attraction in this city that lies along the Gastineau Channel",
+            "value": 500,
+            "airdate": "1994-11-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14495,
+            "answer": "Honolulu",
+            "question": "Now a state capital, it was the site of a surprise attack December 7, 1941",
+            "value": 100,
+            "airdate": "1995-11-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14501,
+            "answer": "Salt Lake City",
+            "question": "Basketball's Utah Jazz play their home games in this capital city",
+            "value": 200,
+            "airdate": "1995-11-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14507,
+            "answer": "Trenton",
+            "question": "For 2 months in 1784, it served as the temporary capital of the U.S.; it became New Jersey's capital in 1790",
+            "value": 300,
+            "airdate": "1995-11-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14513,
+            "answer": "Juneau, Alaska",
+            "question": "You can visit the Last Chance Mining Museum in this capital of \"The Last Frontier\"",
+            "value": 400,
+            "airdate": "1995-11-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14519,
+            "answer": "Baton Rouge",
+            "question": "Sugar plantations across the Mississippi from this capital form an area known as the \"Sugar Bowl of America\"",
+            "value": 500,
+            "airdate": "1995-11-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14858,
+            "answer": "St. Paul",
+            "question": "It's home to the University of Minnesota's College of Agriculture",
+            "value": 100,
+            "airdate": "1995-10-06T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14864,
+            "answer": "Boise",
+            "question": "This Idaho capital is located on a river of the same name",
+            "value": 200,
+            "airdate": "1995-10-06T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14870,
+            "answer": "Carson City, Nevada",
+            "question": "This capital city lies just east of Lake Tahoe",
+            "value": 300,
+            "airdate": "1995-10-06T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14876,
+            "answer": "Lansing, Michigan",
+            "question": "In 1897 Ransom E. Olds began the automobile industry in this capital city",
+            "value": null,
+            "airdate": "1995-10-06T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14882,
+            "answer": "Augusta, Maine",
+            "question": "The Governor's Mansion in this city, the seat of Kennebec County, was the home of James G. Blaine",
+            "value": 500,
+            "airdate": "1995-10-06T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14889,
+            "answer": "Providence",
+            "question": "This Rhode Island city has almost twice the population of Warwick, the state's second largest city",
+            "value": 100,
+            "airdate": "1995-09-27T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14895,
+            "answer": "Boston",
+            "question": "On July 4, 1831 \"America\" was first sung at this city's Park Street Church at the foot of Beacon HIll",
+            "value": 200,
+            "airdate": "1995-09-27T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14901,
+            "answer": "Olympia(, Washington)",
+            "question": "This capital lies at the southern end of Puget Sound on Budd Inlet & Capitol Lake",
+            "value": 300,
+            "airdate": "1995-09-27T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14907,
+            "answer": "Richmond(, Virginia)",
+            "question": "When this future Confederate capital became a city in 1782, half of its population was slaves",
+            "value": 400,
+            "airdate": "1995-09-27T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14913,
+            "answer": "Madison (Wisconsin)",
+            "question": "Alphabetically, it's the last state capital named for a U.S. president",
+            "value": null,
+            "airdate": "1995-09-27T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16355,
+            "answer": "Juneau",
+            "question": "Every spring the Alaska Folk Festival attracts lots of folks to this state capital",
+            "value": 100,
+            "airdate": "1997-05-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16361,
+            "answer": "Boise",
+            "question": "The origins of this Idaho city date back to a fort built in 1863 to protect gold miners",
+            "value": 200,
+            "airdate": "1997-05-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16367,
+            "answer": "Helena",
+            "question": "You'll find this capital of Montana in Prickly Pear Valley",
+            "value": 300,
+            "airdate": "1997-05-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16373,
+            "answer": "Olympia",
+            "question": "In Sept. & Oct. you may watch salmon swim up the fish ladders in this Washington city's Capitol Lake",
+            "value": 400,
+            "airdate": "1997-05-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16379,
+            "answer": "Honolulu",
+            "question": "This city's zoo is only 2 blocks away from a museum devoted to Father Damien",
+            "value": 500,
+            "airdate": "1997-05-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16808,
+            "answer": "Lansing",
+            "question": "The metropolitan area of this Michigan capital occupies parts of 3 counties",
+            "value": 100,
+            "airdate": "1997-04-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16814,
+            "answer": "Cheyenne",
+            "question": "The area of this Wyoming capital was first occupied by the Native American tribe for which it's named",
+            "value": 200,
+            "airdate": "1997-04-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16820,
+            "answer": "Montgomery",
+            "question": "This city is the center of Alabama's fertile \"Black Belt\" agricultural area",
+            "value": 300,
+            "airdate": "1997-04-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16826,
+            "answer": "Jefferson City",
+            "question": "Lincoln University in this Missouri capital was founded by black Civil War veterans",
+            "value": 400,
+            "airdate": "1997-04-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16832,
+            "answer": "Juneau, Alaska",
+            "question": "This capital's 1970 merger with the town of Douglas made it the nation's largest state capital in area",
+            "value": null,
+            "airdate": "1997-04-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 41063,
+            "answer": "Harrisburg",
+            "question": "Pennsylvania",
+            "value": 400,
+            "airdate": "1999-09-10T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 18158,
+            "answer": "Salt Lake City",
+            "question": "Taking 40 years to build, the Mormon Temple was dedicated in this capital in 1893",
+            "value": 100,
+            "airdate": "1997-02-14T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 18164,
+            "answer": "Sacramento",
+            "question": "The California gold rush helped put this state capital on the map",
+            "value": 200,
+            "airdate": "1997-02-14T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 18170,
+            "answer": "Frankfort",
+            "question": "It's located on the Kentucky River, about 50 miles east of Louisville",
+            "value": null,
+            "airdate": "1997-02-14T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 18176,
+            "answer": "Providence, Rhode Island",
+            "question": "It's nicknamed \"The Roger Williams City\"",
+            "value": 400,
+            "airdate": "1997-02-14T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 18182,
+            "answer": "Albany, New York",
+            "question": "In 1624 Dutch settlers founded Fort Orange on the site of this present-day capital",
+            "value": 500,
+            "airdate": "1997-02-14T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 18698,
+            "answer": "Denver",
+            "question": "This Colorado city's capitol dome is covered with 47 ounces of gold leaf",
+            "value": 100,
+            "airdate": "1997-01-20T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 18704,
+            "answer": "Columbus",
+            "question": "This Ohio city is home to Camp Chase Confederate Cemetery",
+            "value": 200,
+            "airdate": "1997-01-20T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 18710,
+            "answer": "Bismarck",
+            "question": "This North Dakota city's capitol building is called The Skyscraper of the Prairies",
+            "value": 300,
+            "airdate": "1997-01-20T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 18716,
+            "answer": "Montpelier",
+            "question": "According to the 1990 census, this Vermont capital had only 8,247 residents",
+            "value": 400,
+            "airdate": "1997-01-20T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 18722,
+            "answer": "Carson City",
+            "question": "This capital was founded in 1851 as Eagle Station, a stop for wagons crossing the Sierra Nevadas",
+            "value": 500,
+            "airdate": "1997-01-20T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19929,
+            "answer": "Denver",
+            "question": "It's part of a metropolitan area that includes Boulder",
+            "value": 100,
+            "airdate": "1996-11-21T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19935,
+            "answer": "Madison",
+            "question": "On an isthmus between lakes Mendota & Monona, it's Wisconsin's 2nd largest city",
+            "value": 200,
+            "airdate": "1996-11-21T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19941,
+            "answer": "Dover (from DROVE)",
+            "question": "If you drove to this state capital, you'd find it's an anagram of one of the words in this answer",
+            "value": 300,
+            "airdate": "1996-11-21T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19947,
+            "answer": "Frankfort",
+            "question": "To see the grave of Daniel Boone, you have to blaze a trail to this capital",
+            "value": 400,
+            "airdate": "1996-11-21T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 19953,
+            "answer": "Helena, Montana",
+            "question": "There's an annual dogsled race in this capital of the 4th largest state in the U.S.",
+            "value": 500,
+            "airdate": "1996-11-21T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 20588,
+            "answer": "Phoenix",
+            "question": "Grand Canyon University is located in this state capital",
+            "value": 100,
+            "airdate": "1996-09-10T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 20594,
+            "answer": "Juneau, Alaska",
+            "question": "Mendenhall Glacier & Glacier Bay National Park lie near this capital city",
+            "value": 200,
+            "airdate": "1996-09-10T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 20600,
+            "answer": "St. Paul",
+            "question": "In 1838 Pierre \"Pig's Eye\" Parrant became the first setller in what is now this Minnesota capital",
+            "value": 300,
+            "airdate": "1996-09-10T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 20606,
+            "answer": "Albany (New York)",
+            "question": "In 1614 Fort Nassau, a Dutch trading post, was established on the site of this capital",
+            "value": 400,
+            "airdate": "1996-09-10T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 20612,
+            "answer": "Cheyenne",
+            "question": "It's Wyoming's largest city & manufacturing center",
+            "value": 500,
+            "airdate": "1996-09-10T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 21785,
+            "answer": "Albany",
+            "question": "This New York capital was once known as Beverwyck",
+            "value": 100,
+            "airdate": "1998-06-01T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 21791,
+            "answer": "Juneau",
+            "question": "In 1982 Alaskans rejected a proposal that would have made Willow the capital instead of this city",
+            "value": 200,
+            "airdate": "1998-06-01T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 21797,
+            "answer": "Bismarck",
+            "question": "In hopes that Germany would help finance its railroad, North Dakota named its capital this",
+            "value": 300,
+            "airdate": "1998-06-01T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 21803,
+            "answer": "Santa Fe",
+            "question": "Bulit in 1610, the Spanish Palace of Governors in this southwest capital is now a museum",
+            "value": 400,
+            "airdate": "1998-06-01T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 21809,
+            "answer": "Montgomery, Alabama",
+            "question": "It's \"The Birthplace of Dixie\"",
+            "value": 500,
+            "airdate": "1998-06-01T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 23047,
+            "answer": "Oklahoma City",
+            "question": "Natives of this city think it's O.K. to call it OKC",
+            "value": 100,
+            "airdate": "1998-04-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 23053,
+            "answer": "Honolulu",
+            "question": "Dole Cannery Square is one of this city's premier shopping destinations",
+            "value": 200,
+            "airdate": "1998-04-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 23059,
+            "answer": "Nashville",
+            "question": "This city boasts museums devoted to toys, beverage containers & Hank Williams Jr.",
+            "value": 300,
+            "airdate": "1998-04-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 23065,
+            "answer": "Santa Fe",
+            "question": "One of America's oldest churches, the Mission of San Miguel in this city, was erected around 1610",
+            "value": 400,
+            "airdate": "1998-04-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 23071,
+            "answer": "Boston",
+            "question": "The Prudential Center Skywalk provides spectacular views of this New England capital",
+            "value": 500,
+            "airdate": "1998-04-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 25118,
+            "answer": "Baton Rouge",
+            "question": "It's Louisiana's second largest city & its capital",
+            "value": 100,
+            "airdate": "1997-12-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 25124,
+            "answer": "Pierre",
+            "question": "South Dakota's Cultural Heritage Center in this city displays a lead plate left by French explorers in 1743",
+            "value": 200,
+            "airdate": "1997-12-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 25130,
+            "answer": "Salem",
+            "question": "In 1840 Jason Lee established a mission on the site of this future Oregon capital",
+            "value": 300,
+            "airdate": "1997-12-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 25136,
+            "answer": "Trenton, New Jersey",
+            "question": "Washington Crossing State Park lies northwest of this capital on the Delaware River",
+            "value": null,
+            "airdate": "1997-12-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 25142,
+            "answer": "Santa Fe, New Mexico",
+            "question": "At almost 7,000 feet above sea level in the Sangre de Cristo Mountains, it's the highest U.S. capital",
+            "value": 500,
+            "airdate": "1997-12-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 26768,
+            "answer": "Honolulu",
+            "question": "The Kodak Hula Show in this city is celebrating its 60th anniversary in 1997",
+            "value": 100,
+            "airdate": "1997-10-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 26774,
+            "answer": "Dover",
+            "question": "This seat of Kent County, Delaware is named for a city in England's county of Kent",
+            "value": 200,
+            "airdate": "1997-10-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 26780,
+            "answer": "Baton Rouge",
+            "question": "Magnolia Mound Plantation, an old Creole home, is a tourist attraction in this city",
+            "value": 300,
+            "airdate": "1997-10-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 26786,
+            "answer": "Santa Fe",
+            "question": "The Pueblo Revolt drove the Spanish out of this city in 1680, but they returned in 1692",
+            "value": 400,
+            "airdate": "1997-10-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 26792,
+            "answer": "Carson City",
+            "question": "Appropriately, the capitol building in this capital of the \"Silver State\" has a silver dome",
+            "value": 500,
+            "airdate": "1997-10-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 29375,
+            "answer": "Montgomery",
+            "question": "In 1955 Martin Luther King, Jr. led a boycott of this Alabama capital's segregated bus system",
+            "value": 100,
+            "airdate": "1999-05-03T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 29381,
+            "answer": "Indianapolis or Oklahoma City",
+            "question": "One of the 2 state capitals whose names include that of the state",
+            "value": 200,
+            "airdate": "1999-05-03T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 29387,
+            "answer": "Salt Lake City",
+            "question": "(Hi, I'm Kristi Yamaguchi)  In 2002 the Winter Olympics are scheduled to take place in this state capital",
+            "value": 300,
+            "airdate": "1999-05-03T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 29393,
+            "answer": "Baton Rouge",
+            "question": "The name of this capital is French for \"red stick\"",
+            "value": 400,
+            "airdate": "1999-05-03T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 29399,
+            "answer": "Hartford",
+            "question": "Dating from 1764, this city's \"Courant\" is one of our nation's oldest newspapers",
+            "value": 500,
+            "airdate": "1999-05-03T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 29675,
+            "answer": "Boston",
+            "question": "Musically, this capital is known for its \"Pops\" concerts & summer concerts on the Charles River Esplanade",
+            "value": 100,
+            "airdate": "1999-04-19T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 29681,
+            "answer": "Frankfort, Kentucky",
+            "question": "This small capital lies at the western edge of its state's Bluegrass region",
+            "value": 200,
+            "airdate": "1999-04-19T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 29687,
+            "answer": "Sacramento",
+            "question": "It was the original western terminus of the Transcontinental Railroad",
+            "value": null,
+            "airdate": "1999-04-19T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 29693,
+            "answer": "Montpelier, Vermont",
+            "question": "A statue of Ethan Allen graces the Capitol Building portico in this city",
+            "value": 400,
+            "airdate": "1999-04-19T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 29699,
+            "answer": "Augusta, Maine",
+            "question": "This capital's executive mansion was once the home of James G. Blaine",
+            "value": 500,
+            "airdate": "1999-04-19T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 30695,
+            "answer": "Indianapolis",
+            "question": "Over 10 interstate & U.S. highways funnel into this Indiana capital; thus its nickname, the \"Crossroads of America\"",
+            "value": 100,
+            "airdate": "1999-03-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 30701,
+            "answer": "Dover",
+            "question": "Although Delaware's capital since 1777, it wasn't incorporated as a city until 1929",
+            "value": 200,
+            "airdate": "1999-03-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 30707,
+            "answer": "Baton Rouge",
+            "question": "Now a museum, the old Governor's Mansion in this capital was constructed by Huey P. Long in 1930",
+            "value": 300,
+            "airdate": "1999-03-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 30713,
+            "answer": "Lincoln",
+            "question": "In the 1860s, it became the last of 4 capitals to be named for a U.S. president",
+            "value": null,
+            "airdate": "1999-03-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 30719,
+            "answer": "Boston",
+            "question": "Its newspapers include the Globe, the Herald & the Christian Science Monitor",
+            "value": 500,
+            "airdate": "1999-03-02T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 34205,
+            "answer": "Little Rock",
+            "question": "MacArthur Park in this Arkansas capital honors General Douglas MacArthur, not Richard Harris",
+            "value": 100,
+            "airdate": "1998-09-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 34211,
+            "answer": "Sacramento",
+            "question": "This capital has been home to the NBA's Kings since 1985",
+            "value": 200,
+            "airdate": "1998-09-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 34217,
+            "answer": "Boise",
+            "question": "Its one daily newspaper is the Idaho Statesman",
+            "value": 300,
+            "airdate": "1998-09-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 34223,
+            "answer": "Baton Rouge, Louisiana",
+            "question": "The old governor's mansion in this capital was built by Huey Long in 1930",
+            "value": null,
+            "airdate": "1998-09-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 34229,
+            "answer": "Atlanta",
+            "question": "The Peachtree Road Race is a 6-mile run held every July 4 in this capital",
+            "value": 500,
+            "airdate": "1998-09-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 39875,
+            "answer": "Salt Lake City",
+            "question": "This Utah capital lies about 15 miles from the body of water for which it was named",
+            "value": 100,
+            "airdate": "1999-11-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 39881,
+            "answer": "Honolulu",
+            "question": "Iolani Palace in this capital city was once home to monarchs",
+            "value": 200,
+            "airdate": "1999-11-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 39887,
+            "answer": "Sacramento",
+            "question": "This city was laid out in the late 1840s on property once owned by John Sutter",
+            "value": 300,
+            "airdate": "1999-11-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 39893,
+            "answer": "Columbus, Ohio",
+            "question": "What a discovery!  Genoa, Italy is an appropriate sister city of this state capital",
+            "value": null,
+            "airdate": "1999-11-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 39899,
+            "answer": "Albany",
+            "question": "You'll find this state capital near the eastern end of the Erie Canal",
+            "value": 500,
+            "airdate": "1999-11-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 41045,
+            "answer": "Boston",
+            "question": "Massachusetts",
+            "value": 100,
+            "airdate": "1999-09-10T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 41051,
+            "answer": "Carson City",
+            "question": "Nevada",
+            "value": 200,
+            "airdate": "1999-09-10T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 41057,
+            "answer": "Bismarck",
+            "question": "North Dakota",
+            "value": 300,
+            "airdate": "1999-09-10T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 41069,
+            "answer": "Charleston",
+            "question": "West Virginia",
+            "value": 500,
+            "airdate": "1999-09-10T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 42575,
+            "answer": "Honolulu",
+            "question": "A statue of King Kamehameha I stands guard outside the judiciary building in this capital city",
+            "value": 100,
+            "airdate": "2001-05-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 42581,
+            "answer": "Hartford",
+            "question": "From 1701 to 1875 New Haven & this city were twin capitals of Connecticut; today it's the only one",
+            "value": 200,
+            "airdate": "2001-05-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 42587,
+            "answer": "Richmond",
+            "question": "The capitol building in this city was designed by Thomas Jefferson",
+            "value": 300,
+            "airdate": "2001-05-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 42593,
+            "answer": "Little Rock",
+            "question": "The French called a land formation La Petite Roche, thus giving this capital its name",
+            "value": null,
+            "airdate": "2001-05-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 42599,
+            "answer": "Montpelier",
+            "question": "This state capital is in the Green Mountains along the Winooski River",
+            "value": 500,
+            "airdate": "2001-05-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 44557,
+            "answer": "Denver",
+            "question": "This Colorado capital was the first city to use the Community Chest to finance its charitable agencies",
+            "value": 100,
+            "airdate": "2001-02-08T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 44563,
+            "answer": "Honolulu",
+            "question": "This state capital is located about 2,500 miles west of Los Angeles",
+            "value": 200,
+            "airdate": "2001-02-08T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 44569,
+            "answer": "Boston",
+            "question": "You'll find the John F. Kennedy Federal Building in this state capital",
+            "value": 300,
+            "airdate": "2001-02-08T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 44575,
+            "answer": "Phoenix",
+            "question": "This state capital's metropolitan area includes the cities of Glendale, Scottsdale & Sun City",
+            "value": null,
+            "airdate": "2001-02-08T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 44581,
+            "answer": "Atlanta",
+            "question": "This capital is the headquarters for UPS, the Turner Broadcasting System & Delta Air Lines",
+            "value": 500,
+            "airdate": "2001-02-08T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 46506,
+            "answer": "Tallahassee",
+            "question": "In 1977 this Florida city replaced its old capitol building with a new high-rise capitol",
+            "value": 100,
+            "airdate": "2000-11-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 46512,
+            "answer": "Santa Fe, New Mexico",
+            "question": "The name of this Southwestern capital is Spanish for \"holy faith\"",
+            "value": 200,
+            "airdate": "2000-11-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 46518,
+            "answer": "Springfield, Illinois",
+            "question": "Abraham Lincoln moved to this capital city in 1837",
+            "value": 300,
+            "airdate": "2000-11-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 46524,
+            "answer": "Hartford",
+            "question": "America's oldest public art museum, the Wadsworth Atheneum, is in this city whose name contains the word \"art\"",
+            "value": 400,
+            "airdate": "2000-11-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 46530,
+            "answer": "Little Rock, Arkansas",
+            "question": "In 1957 this city's Central High was at the center of a desegregation battle",
+            "value": 500,
+            "airdate": "2000-11-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 46895,
+            "answer": "Topeka, Kansas",
+            "question": "In the old railway line it fell between Atchison & Santa Fe",
+            "value": 100,
+            "airdate": "2000-10-23T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 46901,
+            "answer": "Augusta",
+            "question": "Capitals named for women include the capital of Maryland & this Maine capital",
+            "value": 200,
+            "airdate": "2000-10-23T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 46907,
+            "answer": "Montgomery, Alabama",
+            "question": "It's the capital of the state nicknamed \"Heart of Dixie\"",
+            "value": 300,
+            "airdate": "2000-10-23T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 46913,
+            "answer": "Nashville (Tennessee Titans)",
+            "question": "In 1999 the team once known as the Houston Oilers made a slick move to this capital",
+            "value": null,
+            "airdate": "2000-10-23T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 46919,
+            "answer": "Hartford, Connecticut",
+            "question": "A synonym for this New England state capital could be what's symbolized by the sign here[Deer Crossing]",
+            "value": 500,
+            "airdate": "2000-10-23T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 47285,
+            "answer": "Honolulu",
+            "question": "Put on your sunscreen & head to Waikiki Beach, a popular tourist spot in this capital city",
+            "value": 100,
+            "airdate": "2000-10-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 47291,
+            "answer": "Boston",
+            "question": "It was the site of a famous \"Tea Party\", December 16, 1773",
+            "value": 200,
+            "airdate": "2000-10-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 47297,
+            "answer": "Atlanta",
+            "question": "During the Civil War, Union troops led by Sherman captured & burned much of this Georgia capital",
+            "value": 300,
+            "airdate": "2000-10-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 47303,
+            "answer": "Andrew Jackson",
+            "question": "The capital of Mississippi was named for this man, even before he became president",
+            "value": null,
+            "airdate": "2000-10-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 47309,
+            "answer": "Sacramento (California)",
+            "question": "It's the capital of the most populous U.S. state",
+            "value": 500,
+            "airdate": "2000-10-04T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 49925,
+            "answer": "Albany",
+            "question": "The governor's mansion housing George Pataki is in this city",
+            "value": 100,
+            "airdate": "2001-11-05T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 49931,
+            "answer": "Springfield",
+            "question": "In 1861 Abe Lincoln moved from this Illinois city and headed for D.C.",
+            "value": 200,
+            "airdate": "2001-11-05T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 49937,
+            "answer": "Harrisburg",
+            "question": "Think about it...this city was first settled by John Harris around 1718",
+            "value": 300,
+            "airdate": "2001-11-05T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 49943,
+            "answer": "Baton Rouge",
+            "question": "Huey Long was shot at the state capitol in this city in 1935",
+            "value": null,
+            "airdate": "2001-11-05T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 49949,
+            "answer": "Honolulu",
+            "question": "It's known as \"The Crossroads of the Pacific\"",
+            "value": 500,
+            "airdate": "2001-11-05T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 54215,
+            "answer": "Austin",
+            "question": "If you want to check out the Lyndon Baines Johnson Library, go to this state capital",
+            "value": 200,
+            "airdate": "2003-02-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 54221,
+            "answer": "Baton Rouge",
+            "question": "Its name is French for \"red stick\"",
+            "value": 400,
+            "airdate": "2003-02-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 54227,
+            "answer": "Salt Lake City",
+            "question": "Among its nicknames are \"Zion\" & \"The New Jerusalem\"",
+            "value": null,
+            "airdate": "2003-02-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 54233,
+            "answer": "Phoenix",
+            "question": "With a population of over one million, this Southwestern city is the most populous state capital",
+            "value": 800,
+            "airdate": "2003-02-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 54239,
+            "answer": "Columbia",
+            "question": "Its Strom Thurmond Federal Building was completed in 1979",
+            "value": 1000,
+            "airdate": "2003-02-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 59405,
+            "answer": "Albany",
+            "question": "Its 44-story office tower is the tallest structure in New York outside of Manhattan",
+            "value": 200,
+            "airdate": "2004-05-18T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 59411,
+            "answer": "Montgomery",
+            "question": "In 1819 East Alabama & New Philadelphia were consolidated into this",
+            "value": 400,
+            "airdate": "2004-05-18T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 59417,
+            "answer": "Juneau(, Alaska)",
+            "question": "This capital founded by gold miners has over 100 days a year of below freezing temperatures",
+            "value": null,
+            "airdate": "2004-05-18T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 59423,
+            "answer": "Salem(, Oregon)",
+            "question": "It lies about 50 miles south of Portland on the Willamette river",
+            "value": 800,
+            "airdate": "2004-05-18T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 59429,
+            "answer": "Augusta(, Maine)",
+            "question": "It lies about 50 miles northeast of Portland on the Kennebec river",
+            "value": 1000,
+            "airdate": "2004-05-18T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61174,
+            "answer": "Providence",
+            "question": "A bronze statue known as \"The Independent Man\" tops the Rhode Island state house in this city",
+            "value": 200,
+            "airdate": "2004-02-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61180,
+            "answer": "Santa Fe",
+            "question": "Opened in 1917, the Museum of Fine Arts in this city was built in the Pueblo Revival style",
+            "value": 400,
+            "airdate": "2004-02-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61186,
+            "answer": "Richmond",
+            "question": "Hollywood Cemetery in this city is the final resting place of James Monroe, John Tyler & Jefferson Davis",
+            "value": 600,
+            "airdate": "2004-02-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61192,
+            "answer": "Salt Lake City",
+            "question": "This city dropped the word \"Great\" from its name in 1868, while it was still a territorial capital",
+            "value": null,
+            "airdate": "2004-02-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61198,
+            "answer": "Nashville",
+            "question": "The exterior of the gov.'s mansion in Tallahassee was inspired by the Hermitage in this other state capital",
+            "value": 1000,
+            "airdate": "2004-02-25T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61714,
+            "answer": "Austin, Texas",
+            "question": "Before he was president, George W. Bush occupied the governor's mansion in this city",
+            "value": 200,
+            "airdate": "2004-01-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61720,
+            "answer": "Denver",
+            "question": "It's home to the NHL's Avalanche & also to a U.S. Mint",
+            "value": 400,
+            "airdate": "2004-01-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61726,
+            "answer": "(2 of 4) Carson City, Jefferson City, Oklahoma City & Salt Lake City",
+            "question": "2 of the 4 state capitals with the word \"City\" in their names",
+            "value": null,
+            "airdate": "2004-01-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61732,
+            "answer": "Frankfort",
+            "question": "Anthony Trollope called this capital \"on the River Kentucky\" \"As quietly dull a little town as I ever entered\"",
+            "value": 800,
+            "airdate": "2004-01-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61738,
+            "answer": "Augusta, Maine",
+            "question": "This capital is also the seat of Kennebec County",
+            "value": 1000,
+            "airdate": "2004-01-16T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 66874,
+            "answer": "Lincoln",
+            "question": "Nebraska Wesleyan University is in this state capital",
+            "value": 200,
+            "airdate": "2005-01-05T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 66880,
+            "answer": "Albany",
+            "question": "(Hi, I'm Tim Russert of NBC's Meet the Press.)  Before joining NBC News, I observed politics firsthand as a lawyer working in the N.Y. Governor's office in this state capital",
+            "value": 400,
+            "airdate": "2005-01-05T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 66886,
+            "answer": "Annapolis",
+            "question": "This state capital is home to one of the armed forces academies",
+            "value": 600,
+            "airdate": "2005-01-05T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 66892,
+            "answer": "Little Rock",
+            "question": "(Hi, I'm Tucker Carlson of CNN's Crossfire.)  One of my first jobs in journalism was as a staff writer at the Arkansas Democrat-Gazette in this state capital",
+            "value": 800,
+            "airdate": "2005-01-05T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 66898,
+            "answer": "Sacramento",
+            "question": "It's the state capital whose major newspaper is a \"Bee\"",
+            "value": 1000,
+            "airdate": "2005-01-05T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 68464,
+            "answer": "Carson City",
+            "question": "This Nevada capital was founded by Abraham Curry, who named it for a famous frontier scout",
+            "value": 200,
+            "airdate": "2004-10-22T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 68470,
+            "answer": "Denver",
+            "question": "More than half of all U.S. coins are made at the mint in this \"Mile High City\"",
+            "value": 400,
+            "airdate": "2004-10-22T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 68476,
+            "answer": "Sacramento",
+            "question": "This state capital was founded by John Sutter, Jr. a year after gold was discovered on his father's sawmill",
+            "value": 600,
+            "airdate": "2004-10-22T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 68482,
+            "answer": "Columbus (Ohio)",
+            "question": "The 20-foot tall statue that stands in this capital's City Hall Plaza was a gift from the citizens of Genoa, Italy",
+            "value": null,
+            "airdate": "2004-10-22T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 68488,
+            "answer": "Albany (New York)",
+            "question": "Peter Stuyvesant gave it the name Beverwyck in 1652; 12 years later it was given its present name",
+            "value": 1000,
+            "airdate": "2004-10-22T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73834,
+            "answer": "Boston",
+            "question": "One of its nicknames is the \"City of Paul Revere\"",
+            "value": 200,
+            "airdate": "2006-01-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73840,
+            "answer": "Salt Lake City",
+            "question": "One of the world's largest pipe organs is found in the tabernacle in this state capital",
+            "value": 400,
+            "airdate": "2006-01-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73846,
+            "answer": "Sacramento",
+            "question": "In 1860 & 1861 Pony Express riders carried the mail from St. Joseph, Mo. ending in this Western capital",
+            "value": 600,
+            "airdate": "2006-01-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73852,
+            "answer": "Montgomery",
+            "question": "Rosa Parks helped make this city \"The Birthplace of the Civil Rights Movement\"",
+            "value": 800,
+            "airdate": "2006-01-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 73858,
+            "answer": "Indianapolis",
+            "question": "4 cities lie within this state capital's city limits: Beech Grove, Southport, Lawrence & Speedway",
+            "value": 1000,
+            "airdate": "2006-01-09T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76567,
+            "answer": "(Andrew) Jackson",
+            "question": "In 1821 Mississippi named its capital for this hero of the War of 1812; he didn't become president until 8 years later",
+            "value": 200,
+            "airdate": "2007-07-20T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76573,
+            "answer": "Topeka",
+            "question": "When Kansas became a state in 1861, this city became capital",
+            "value": 400,
+            "airdate": "2007-07-20T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76579,
+            "answer": "Carson City",
+            "question": "This capital lies in the Eagle Valley about 30 miles south of Reno",
+            "value": 600,
+            "airdate": "2007-07-20T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76585,
+            "answer": "Phoenix",
+            "question": "Tempe is a southern suburb of this state capital",
+            "value": 800,
+            "airdate": "2007-07-20T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76591,
+            "answer": "Montpelier",
+            "question": "A statue of Ethan Allen stands within the portico of the state capitol building in this city",
+            "value": null,
+            "airdate": "2007-07-20T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78307,
+            "answer": "Concord",
+            "question": "Pass the grape jelly & name this state capital of New Hampshire",
+            "value": 200,
+            "airdate": "2007-05-01T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78313,
+            "answer": "Olympia",
+            "question": "It's the capital of the Evergreen State",
+            "value": 400,
+            "airdate": "2007-05-01T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78319,
+            "answer": "Boston",
+            "question": "Much of the trendy Back Bay area of this state capital is built on a landfill",
+            "value": 600,
+            "airdate": "2007-05-01T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78325,
+            "answer": "Providence",
+            "question": "Because he believed God led him there, Roger Williams named a state capital this",
+            "value": null,
+            "airdate": "2007-05-01T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78331,
+            "answer": "Charleston",
+            "question": "It's where you'll find the Robert C. Byrd U.S. Courthouse",
+            "value": 1000,
+            "airdate": "2007-05-01T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 80044,
+            "answer": "Columbus (Ohio)",
+            "question": "We're not sure whether the Spanish ship on its city flag represents the Nina, Pinta, or Santa Maria",
+            "value": 200,
+            "airdate": "2007-02-08T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 80050,
+            "answer": "Jefferson City",
+            "question": "This capital was created by the Missouri legislature & laid out by the son of Daniel Boone in the 1820s",
+            "value": 400,
+            "airdate": "2007-02-08T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 80056,
+            "answer": "Olympia (Washington)",
+            "question": "Mount Rainier is visible to the east from its state capitol building",
+            "value": null,
+            "airdate": "2007-02-08T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 80062,
+            "answer": "Springfield",
+            "question": "One of the major attractions in this state capital is the tomb of Abraham Lincoln in Oak Ridge Cemetery",
+            "value": 800,
+            "airdate": "2007-02-08T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 80068,
+            "answer": "Albany (New York)",
+            "question": "This capital began as a small Dutch outpost, Fort Nassau, built on Westerlo Island in the Hudson River",
+            "value": 1000,
+            "airdate": "2007-02-08T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 97898,
+            "answer": "Madison",
+            "question": "This site was uninhabited woods when James Doty persuaded the Wisconsin legislature to put the capital there",
+            "value": 200,
+            "airdate": "2010-02-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 97904,
+            "answer": "Phoenix",
+            "question": "It's home to Grand Canyon university",
+            "value": 400,
+            "airdate": "2010-02-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 97910,
+            "answer": "Albany",
+            "question": "Troy & Schenectady are part of this state capital's metropolitan area",
+            "value": 600,
+            "airdate": "2010-02-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 97916,
+            "answer": "Sacramento",
+            "question": "This capital closest to Sutter's Mill served as a supply center for the Forty-Niners",
+            "value": null,
+            "airdate": "2010-02-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 97922,
+            "answer": "Montgomery",
+            "question": "This capital was created when adjoining settlements, East Alabama & Alabama, merged in 1819",
+            "value": 1000,
+            "airdate": "2010-02-24T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 101914,
+            "answer": "Honolulu",
+            "question": "The state capital out in the middle of the Pacific Ocean",
+            "value": 200,
+            "airdate": "2011-07-07T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 101920,
+            "answer": "Jefferson City",
+            "question": "This Missouri capital is one of the 4 named after a U.S. president",
+            "value": 400,
+            "airdate": "2011-07-07T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 101926,
+            "answer": "Annapolis (or Indianapolis)",
+            "question": "One of the 2 that end in \"polis\"",
+            "value": 600,
+            "airdate": "2011-07-07T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 101932,
+            "answer": "Juneau",
+            "question": "It's the northernmost state capital; it can get real cold there too",
+            "value": 800,
+            "airdate": "2011-07-07T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 101938,
+            "answer": "Sacramento",
+            "question": "As governor, Arnold Schwarzenegger had his office in this state capital",
+            "value": 1000,
+            "airdate": "2011-07-07T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 105994,
+            "answer": "Denver",
+            "question": "The key on this capital's corporate seal represents it beit the key to the Rocky Mountain region",
+            "value": 200,
+            "airdate": "2010-12-28T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 106000,
+            "answer": "Tallahassee",
+            "question": "The official website of this capital city can be found at talgov.com",
+            "value": 400,
+            "airdate": "2010-12-28T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 106006,
+            "answer": "Salem",
+            "question": "A sign in this Oregon capital marks the 45th parallel \"half way between the equator and the North Pole\"",
+            "value": 600,
+            "airdate": "2010-12-28T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 106012,
+            "answer": "Little Rock",
+            "question": "It began as a trading post called La Petite Roche to distinguish it from a high bluff farther upstream",
+            "value": 800,
+            "airdate": "2010-12-28T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 106018,
+            "answer": "Bismarck",
+            "question": "In 1873 the town of Edwinton was renamed this by the Northern Pacific Railroad to honor the German Chancellor",
+            "value": null,
+            "airdate": "2010-12-28T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 127976,
+            "answer": "Jackson (Mississippi)",
+            "question": "This Mississippi capital was named for a general who later became president",
+            "value": 200,
+            "airdate": "2013-11-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 127982,
+            "answer": "Honolulu",
+            "question": "Its National Memorial Cemetery of the Pacific contains the graves of WWII, Korean War & Vietnam War dead",
+            "value": 400,
+            "airdate": "2013-11-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 127988,
+            "answer": "Montpelier",
+            "question": "This New England state capital lies on the main pass through the Green Mountains",
+            "value": 600,
+            "airdate": "2013-11-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 127994,
+            "answer": "Baton Rouge",
+            "question": "Huey Long's grave has an honored place on the grounds of this city's capital building",
+            "value": 800,
+            "airdate": "2013-11-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 128000,
+            "answer": "Boise",
+            "question": "French-Canadian trappers named it for the tree-lined river that provided relief for those crossing the Snake River Plain",
+            "value": null,
+            "airdate": "2013-11-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 151345,
+            "answer": "Jackson (Mississippi)",
+            "question": "This Mississippi capital was named for a general who later became president",
+            "value": 200,
+            "airdate": "2013-11-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": 4348,
+            "invalid_count": null
+        },
+        {
+            "id": 151351,
+            "answer": "Honolulu",
+            "question": "Its National Memorial Cemetery of the Pacific contains the graves of WWII, Korean War & Vietnam War dead",
+            "value": 400,
+            "airdate": "2013-11-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": 4348,
+            "invalid_count": null
+        },
+        {
+            "id": 151357,
+            "answer": "Montpelier",
+            "question": "This New England state capital lies on the main pass through the Green Mountains",
+            "value": 600,
+            "airdate": "2013-11-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": 4348,
+            "invalid_count": null
+        },
+        {
+            "id": 151363,
+            "answer": "Baton Rouge",
+            "question": "Huey Long's grave has an honored place on the grounds of this city's capital building",
+            "value": 800,
+            "airdate": "2013-11-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": 4348,
+            "invalid_count": null
+        },
+        {
+            "id": 151369,
+            "answer": "Boise",
+            "question": "French-Canadian trappers named it for the tree-lined river that provided relief for those crossing the Snake River Plain",
+            "value": null,
+            "airdate": "2013-11-11T12:00:00.000Z",
+            "category_id": 109,
+            "game_id": 4348,
+            "invalid_count": null
+        }
+    ]
+}

@@ -1,0 +1,2157 @@
+{
+    "id": 561,
+    "title": "rhyme time",
+    "clues_count": 215,
+    "clues": [
+        {
+            "id": 3851,
+            "answer": "a hot shot",
+            "question": "A grandstander, or one especially good at pistol target practice",
+            "value": 100,
+            "airdate": "1988-01-25T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 3857,
+            "answer": "funny money",
+            "question": "Counterfeit cash",
+            "value": 200,
+            "airdate": "1988-01-25T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 3863,
+            "answer": "\"The Name Game\"",
+            "question": "Title of the following, it was Shirley Ellis' follow-up hit to \"The Nitty Gritty\":\"Tony, Tony, bo Bony banana fanna fo FonyFee fy mo Mony, Tony!(Pretty good!  Let's do Billy!)Billy, Billy, bo Billy...\"",
+            "value": null,
+            "airdate": "1988-01-25T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 3869,
+            "answer": "a mai tai",
+            "question": "This fruit-garnished rum cocktail isn't indigenous to Hawaii but arrived there in 1953",
+            "value": 400,
+            "airdate": "1988-01-25T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 3875,
+            "answer": "a fine line",
+            "question": "The queue at the cashier's widow to pay your traffic ticket, or what's drawn by a pen with a 0.3mm point",
+            "value": 500,
+            "airdate": "1988-01-25T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4829,
+            "answer": "a green bean",
+            "question": "A verdant vegetable",
+            "value": 100,
+            "airdate": "1989-01-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4835,
+            "answer": "lather Rather",
+            "question": "An order to put shaving cream all over the face of CBS news anchor Dan",
+            "value": 200,
+            "airdate": "1989-01-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4841,
+            "answer": "a boat goat",
+            "question": "A ship for shipping the animals from whose milk we get feta cheese",
+            "value": 300,
+            "airdate": "1989-01-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 4853,
+            "answer": "a rooster booster",
+            "question": "An enthusiastic promoter of chanticleers",
+            "value": 500,
+            "airdate": "1989-01-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 5786,
+            "answer": "Farrow\\'s Arrows",
+            "question": "What Mia would keep in her quiver if she took up archery",
+            "value": 100,
+            "airdate": "1990-05-02T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 5792,
+            "answer": "Egyptian Prescription",
+            "question": "What you could have filled at a pharmacy in Cairo",
+            "value": 200,
+            "airdate": "1990-05-02T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 5798,
+            "answer": "Cuter Suitor",
+            "question": "A more adorable guy who wants to marry you",
+            "value": 300,
+            "airdate": "1990-05-02T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 5804,
+            "answer": "Injure Ginger",
+            "question": "To hurt Fred Astaire's dancing partner",
+            "value": 400,
+            "airdate": "1990-05-02T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 5810,
+            "answer": "Normal Formal",
+            "question": "A typical evening gown",
+            "value": 500,
+            "airdate": "1990-05-02T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 6360,
+            "answer": "Humpty Dumpty",
+            "question": "Mother Goose character who sat on a wall & had a great fall",
+            "value": 100,
+            "airdate": "1990-03-16T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 6366,
+            "answer": "Boo, Who?",
+            "question": "Knock, KnockWho's there?Boo!",
+            "value": 200,
+            "airdate": "1990-03-16T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 6372,
+            "answer": "Zoot Suit",
+            "question": "1940's style with tight cuffed trousers. wide lapels & heavily padded shoulders",
+            "value": 300,
+            "airdate": "1990-03-16T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 6378,
+            "answer": "Kremlin Gremlin",
+            "question": "Mischievous imp that might wreck the machinery in a Moscow landmark",
+            "value": 400,
+            "airdate": "1990-03-16T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 6384,
+            "answer": "Fender Bender",
+            "question": "A minor traffic accident",
+            "value": 500,
+            "airdate": "1990-03-16T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 7830,
+            "answer": "Mutton Glutton",
+            "question": "An over-eater of sheep meat",
+            "value": 100,
+            "airdate": "1989-11-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 7836,
+            "answer": "Fast Cast",
+            "question": "A rapid reeling out of fishing line",
+            "value": 200,
+            "airdate": "1989-11-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 7842,
+            "answer": "Fight Site",
+            "question": "In boxing it could be Caesars Palace or Madison Square Garden",
+            "value": 300,
+            "airdate": "1989-11-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 7848,
+            "answer": "Chilly Willy",
+            "question": "Animator Tex Avery described this Walter Lantz penguin as devoid of personality",
+            "value": 400,
+            "airdate": "1989-11-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 7854,
+            "answer": "Tribe Scribe",
+            "question": "He takes the minutes at a powwow",
+            "value": 500,
+            "airdate": "1989-11-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 8908,
+            "answer": "big wig",
+            "question": "A person of consequence in a high official position, or what Dolly Parton wears on her head",
+            "value": 100,
+            "airdate": "1990-10-30T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 8914,
+            "answer": "sandy candy",
+            "question": "Your M&M's after you drop them on the beach",
+            "value": 200,
+            "airdate": "1990-10-30T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 8920,
+            "answer": "yellow Jell-O",
+            "question": "The lemon-flavored variety of a wobbly dessert",
+            "value": 300,
+            "airdate": "1990-10-30T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 8926,
+            "answer": "<i>The Dream Team</i>",
+            "question": "In the title of an '89 film, Michael Keaton & his mental patient pals were collectively known as this",
+            "value": 400,
+            "airdate": "1990-10-30T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 8932,
+            "answer": "llama mama",
+            "question": "An Andean pack animal that has offspring",
+            "value": 500,
+            "airdate": "1990-10-30T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9330,
+            "answer": "a dark park",
+            "question": "A public recreation area devoid of light",
+            "value": 100,
+            "airdate": "1992-03-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9336,
+            "answer": "an ape cape",
+            "question": "A cloaklike garment for a gorilla",
+            "value": 200,
+            "airdate": "1992-03-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9342,
+            "answer": "a cheap jeep",
+            "question": "An inexpensive Army vehicle",
+            "value": 300,
+            "airdate": "1992-03-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9348,
+            "answer": "a neck peck",
+            "question": "A quick, casual kiss on the nape",
+            "value": 400,
+            "airdate": "1992-03-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 9354,
+            "answer": "a quiet riot",
+            "question": "A silent mob scene",
+            "value": 500,
+            "airdate": "1992-03-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11410,
+            "answer": "one ton",
+            "question": "2,000 pounds",
+            "value": 100,
+            "airdate": "1992-09-28T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11416,
+            "answer": "a low blow",
+            "question": "A hit below the belt",
+            "value": 200,
+            "airdate": "1992-09-28T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11422,
+            "answer": "a horse course",
+            "question": "A class that teaches you all about equines",
+            "value": 300,
+            "airdate": "1992-09-28T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11428,
+            "answer": "a cookbook",
+            "question": "The type of tome penned by Paul Prudhomme",
+            "value": 400,
+            "airdate": "1992-09-28T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 11434,
+            "answer": "Fay Wray",
+            "question": "She played the beauty in a classic 1933 film about a beast",
+            "value": 500,
+            "airdate": "1992-09-28T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 13750,
+            "answer": "Nurses\\' Purses",
+            "question": "Handbags for RNs",
+            "value": 100,
+            "airdate": "1996-04-01T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 13756,
+            "answer": "Weird Beard",
+            "question": "A strange goatee",
+            "value": 200,
+            "airdate": "1996-04-01T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 13762,
+            "answer": "Mutton Glutton",
+            "question": "An insatiable eater of aged sheep meat",
+            "value": 300,
+            "airdate": "1996-04-01T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 13768,
+            "answer": "Liver Giver",
+            "question": "Donor of a hepatic organ",
+            "value": 400,
+            "airdate": "1996-04-01T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 13774,
+            "answer": "Particle Article",
+            "question": "A magazine piece on the neutron or electron",
+            "value": 500,
+            "airdate": "1996-04-01T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14828,
+            "answer": "good wood",
+            "question": "Above-average balsa or oak",
+            "value": 100,
+            "airdate": "1995-11-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14834,
+            "answer": "a deep sleep",
+            "question": "A heavy & unbroken slumber",
+            "value": 200,
+            "airdate": "1995-11-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14840,
+            "answer": "the chief thief",
+            "question": "The principal pickpocket",
+            "value": 300,
+            "airdate": "1995-11-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14846,
+            "answer": "barn yarn",
+            "question": "Exaggerated tale about a farm structure",
+            "value": 400,
+            "airdate": "1995-11-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 14852,
+            "answer": "a major wager",
+            "question": "An all-important bet",
+            "value": 500,
+            "airdate": "1995-11-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16330,
+            "answer": "Free tree",
+            "question": "An oak or elm at no cost",
+            "value": 100,
+            "airdate": "1997-05-19T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16336,
+            "answer": "Moon spoon",
+            "question": "A lunar eating utensil",
+            "value": 200,
+            "airdate": "1997-05-19T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16342,
+            "answer": "Nice mice",
+            "question": "Amiable rodents",
+            "value": 300,
+            "airdate": "1997-05-19T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16348,
+            "answer": "Warm dorm",
+            "question": "Amply heated housing for students",
+            "value": 400,
+            "airdate": "1997-05-19T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 16354,
+            "answer": "Cranky Yankee",
+            "question": "Any irritable New York baseball player",
+            "value": 500,
+            "airdate": "1997-05-19T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17166,
+            "answer": "a stocky jockey",
+            "question": "A short, chunky race horse rider",
+            "value": 100,
+            "airdate": "1997-04-07T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17172,
+            "answer": "a book nook",
+            "question": "Cozy corner in which to store your bestsellers",
+            "value": 200,
+            "airdate": "1997-04-07T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17178,
+            "answer": "a brassy lassie (or a sassy lassie)",
+            "question": "It's what you might call a smart-mouthed young Scottish woman",
+            "value": 300,
+            "airdate": "1997-04-07T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17184,
+            "answer": "a fudge smudge",
+            "question": "A stain from a hot chocolate sundae",
+            "value": 400,
+            "airdate": "1997-04-07T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17190,
+            "answer": "a tribe scribe",
+            "question": "Official penman for the Pima or Navajo",
+            "value": 500,
+            "airdate": "1997-04-07T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17530,
+            "answer": "May Day",
+            "question": "Holiday celebrating the first of the fifth month, or an S.O.S.",
+            "value": 100,
+            "airdate": "1997-03-20T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17536,
+            "answer": "Scorn corn",
+            "question": "To disdain an eared vegetable",
+            "value": 200,
+            "airdate": "1997-03-20T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17542,
+            "answer": "Soccer locker",
+            "question": "It's where Pele stores his ball",
+            "value": 300,
+            "airdate": "1997-03-20T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17548,
+            "answer": "Fish dish",
+            "question": "A perch platter",
+            "value": 400,
+            "airdate": "1997-03-20T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17554,
+            "answer": "Middle fiddle",
+            "question": "It's the second of 3 violins in a row",
+            "value": 500,
+            "airdate": "1997-03-20T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17710,
+            "answer": "Flatten Patton",
+            "question": "To knock down General George S.",
+            "value": 100,
+            "airdate": "1997-03-12T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17716,
+            "answer": "Hefty lefty",
+            "question": "A really big southpaw",
+            "value": 200,
+            "airdate": "1997-03-12T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17722,
+            "answer": "Droll troll",
+            "question": "A humorous Scandinavian dwarf of folklore",
+            "value": 300,
+            "airdate": "1997-03-12T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17728,
+            "answer": "Hooter tutor",
+            "question": "A person who teaches you to imitate an owl",
+            "value": 400,
+            "airdate": "1997-03-12T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 17734,
+            "answer": "Bored gourd",
+            "question": "A pumpkin suffering from ennui",
+            "value": 500,
+            "airdate": "1997-03-12T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 22180,
+            "answer": "Lean queen",
+            "question": "A skinny female monarch",
+            "value": 100,
+            "airdate": "1998-05-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 22186,
+            "answer": "Rice spice",
+            "question": "Any seasoning for pilaf",
+            "value": 200,
+            "airdate": "1998-05-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 22192,
+            "answer": "Teach speech",
+            "question": "Instruct college kids on the art of oration",
+            "value": 300,
+            "airdate": "1998-05-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 22198,
+            "answer": "Melon felon",
+            "question": "A casaba or cantaloupe in serious trouble with the law",
+            "value": 400,
+            "airdate": "1998-05-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 22204,
+            "answer": "Hague plague",
+            "question": "A disease that breaks out in the Netherlands' seat of government",
+            "value": 500,
+            "airdate": "1998-05-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 23440,
+            "answer": "Dark ark",
+            "question": "Noah's boat, if he painted it black",
+            "value": 100,
+            "airdate": "1998-03-16T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 23446,
+            "answer": "Book crook",
+            "question": "A thief who steals tomes from the library",
+            "value": 200,
+            "airdate": "1998-03-16T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 23452,
+            "answer": "Smelly jelly",
+            "question": "A fruity bread spread that really reeks",
+            "value": 300,
+            "airdate": "1998-03-16T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 23458,
+            "answer": "Dowdy Howdy",
+            "question": "Mr. Doody, when he looks frumpy",
+            "value": 400,
+            "airdate": "1998-03-16T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 23464,
+            "answer": "Fake cake",
+            "question": "Faux gateau",
+            "value": 500,
+            "airdate": "1998-03-16T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 27880,
+            "answer": "Toad load",
+            "question": "Weighty package shouldered by a frog relative",
+            "value": 100,
+            "airdate": "1999-07-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 27886,
+            "answer": "Calm balm",
+            "question": "A non-excited ointment",
+            "value": 200,
+            "airdate": "1999-07-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 27892,
+            "answer": "Vermin sermon",
+            "question": "A speech disease-ridden rats might hear in church",
+            "value": 300,
+            "airdate": "1999-07-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 27898,
+            "answer": "God squad",
+            "question": "A small army unit for Shiva or Zeus",
+            "value": 400,
+            "airdate": "1999-07-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 27904,
+            "answer": "Punk skunk",
+            "question": "A polecat who emulates the Sex Pistols",
+            "value": 500,
+            "airdate": "1999-07-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 44230,
+            "answer": "Swiss Miss",
+            "question": "This cocoa brand will \"warm the heart\"",
+            "value": 100,
+            "airdate": "2001-02-23T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 44236,
+            "answer": "Flower power",
+            "question": "The pacifistic influence of the 1960s hippie movement",
+            "value": 200,
+            "airdate": "2001-02-23T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 44242,
+            "answer": "Dream Team",
+            "question": "In 1992 Charles Barkley, Karl Malone, Michael Jordan, Magic Johnson, Larry Bird, et. al.",
+            "value": 300,
+            "airdate": "2001-02-23T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 44248,
+            "answer": "Holly Jolly",
+            "question": "A holiday song says, \"Have\" this type of \"Christmas, It's the best time of the year\"",
+            "value": 400,
+            "airdate": "2001-02-23T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 44254,
+            "answer": "<i>Beat Street</i>",
+            "question": "Rae Dawn Chong starred in this 1984  film about urban kids who breakdance & rap",
+            "value": 500,
+            "airdate": "2001-02-23T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 45400,
+            "answer": "Loud cloud",
+            "question": "A noisy cumulonimbus",
+            "value": 100,
+            "airdate": "2001-01-01T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 45406,
+            "answer": "Square bear",
+            "question": "A grizzly that isn't hip",
+            "value": 200,
+            "airdate": "2001-01-01T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 45412,
+            "answer": "Cute flute",
+            "question": "An adorable wind instrument",
+            "value": 300,
+            "airdate": "2001-01-01T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 45418,
+            "answer": "Funny bunny",
+            "question": "A hilarious little rabbit",
+            "value": 400,
+            "airdate": "2001-01-01T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 45424,
+            "answer": "a mock sock",
+            "question": "A fake foot covering",
+            "value": 500,
+            "airdate": "2001-01-01T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 48430,
+            "answer": "mutt putt",
+            "question": "A short golf stroke by a mongrel dog",
+            "value": 200,
+            "airdate": "2002-05-30T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 48436,
+            "answer": "weird beard",
+            "question": "Odd-looking hair growth on your chin",
+            "value": 400,
+            "airdate": "2002-05-30T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 48442,
+            "answer": "risky whiskey",
+            "question": "Potentially dangerous bourbon",
+            "value": 600,
+            "airdate": "2002-05-30T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 48448,
+            "answer": "good wood",
+            "question": "Non-evil tree product",
+            "value": 800,
+            "airdate": "2002-05-30T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 48454,
+            "answer": "Dutch clutch",
+            "question": "An automobile gear-shifting device from Holland",
+            "value": 1000,
+            "airdate": "2002-05-30T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 51190,
+            "answer": "a house mouse",
+            "question": "Mus musculus, this grayish-brown rodent lives in or near domiciles",
+            "value": 100,
+            "airdate": "2001-09-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 51196,
+            "answer": "sci-fi",
+            "question": "Abbreviated term for the genre that includes Isaac Asimov & Ursula K. Le Guin",
+            "value": 200,
+            "airdate": "2001-09-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 51202,
+            "answer": "a mai tai",
+            "question": "Restaurateur Trader Vic created this rum & curacao cocktail",
+            "value": null,
+            "airdate": "2001-09-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 51208,
+            "answer": "hanky panky",
+            "question": "The title of hits by Madonna & Tommy James & The Shondells, it's slang for naughty behavior",
+            "value": 400,
+            "airdate": "2001-09-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 51214,
+            "answer": "willy-nilly",
+            "question": "This hyphenated term means haphazard or disorganized",
+            "value": 500,
+            "airdate": "2001-09-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 57460,
+            "answer": "Quaker baker",
+            "question": "Society of Friends member who works as a bread cook",
+            "value": 200,
+            "airdate": "2002-09-24T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 57466,
+            "answer": "scary dairy",
+            "question": "A frightening milk production facility",
+            "value": 400,
+            "airdate": "2002-09-24T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 57472,
+            "answer": "heavy Chevy",
+            "question": "An overloaded Corvette",
+            "value": 600,
+            "airdate": "2002-09-24T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 57478,
+            "answer": "mutton glutton",
+            "question": "Someone who gorges himself on sheep meat",
+            "value": 800,
+            "airdate": "2002-09-24T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 57484,
+            "answer": "beaten Cretan",
+            "question": "A defeated Minoan",
+            "value": 1000,
+            "airdate": "2002-09-24T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61029,
+            "answer": "rice price",
+            "question": "$1.99 for a box of Uncle Ben's",
+            "value": 200,
+            "airdate": "2004-03-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61035,
+            "answer": "cool pool",
+            "question": "A chilly swimming basin",
+            "value": 400,
+            "airdate": "2004-03-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61041,
+            "answer": "loud crowd",
+            "question": "A large, noisy group of people",
+            "value": 600,
+            "airdate": "2004-03-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61047,
+            "answer": "salt vault",
+            "question": "Where to hide your sodium chloride",
+            "value": 800,
+            "airdate": "2004-03-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 61053,
+            "answer": "kissed Liszt",
+            "question": "Smooched with the composer of \"Hungarian Rhapsodies\"",
+            "value": 1000,
+            "airdate": "2004-03-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 62949,
+            "answer": "a salad ballad",
+            "question": "A sentimental song about a Waldorf or Caesar",
+            "value": 200,
+            "airdate": "2005-07-07T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 62955,
+            "answer": "a poodle doodle",
+            "question": "A quick drawing of a curly-haired dog",
+            "value": 400,
+            "airdate": "2005-07-07T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 62961,
+            "answer": "an Abel fable",
+            "question": "A story with a moral about Adam & Eve's second son",
+            "value": 600,
+            "airdate": "2005-07-07T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 62967,
+            "answer": "hail Yale",
+            "question": "Salute that grand old university in New Haven",
+            "value": 800,
+            "airdate": "2005-07-07T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 62973,
+            "answer": "a brief thief",
+            "question": "One who steals a legal document like a summary or abstract",
+            "value": null,
+            "airdate": "2005-07-07T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 66399,
+            "answer": "a smart start",
+            "question": "An intelligent beginning",
+            "value": 200,
+            "airdate": "2005-01-27T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 66405,
+            "answer": "a fatter batter",
+            "question": "A more obese baseball slugger",
+            "value": 400,
+            "airdate": "2005-01-27T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 66411,
+            "answer": "a rich witch",
+            "question": "A wealthy sorceress",
+            "value": 600,
+            "airdate": "2005-01-27T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 66417,
+            "answer": "a crypt script",
+            "question": "Written text of a movie about an underground burial chamber",
+            "value": 800,
+            "airdate": "2005-01-27T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 66423,
+            "answer": "devour flour",
+            "question": "Voraciously eat an \"all-purpose\" baking ingredient",
+            "value": 1000,
+            "airdate": "2005-01-27T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67059,
+            "answer": "June swoon",
+            "question": "Term used about a baseball team that's hot until the end of May then collapses",
+            "value": 200,
+            "airdate": "2004-12-28T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67065,
+            "answer": "ill will",
+            "question": "If you have a grudge against Clinton, you bear Bill this feeling",
+            "value": 400,
+            "airdate": "2004-12-28T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67071,
+            "answer": "a gender bender",
+            "question": "A person who dresses & behaves like a member of the opposite sex",
+            "value": 600,
+            "airdate": "2004-12-28T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67077,
+            "answer": "plain jane",
+            "question": "No one would apply this term for a drab or unattractive woman to actress Seymour",
+            "value": 800,
+            "airdate": "2004-12-28T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67083,
+            "answer": "wine & dine",
+            "question": "Woo her with an expensive Chateau Petrus & a fine gigot d'agneau",
+            "value": 1000,
+            "airdate": "2004-12-28T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67389,
+            "answer": "teepee",
+            "question": "One-word name of a portable dwelling of native Americans, especially on the great plains",
+            "value": 200,
+            "airdate": "2004-12-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67395,
+            "answer": "<i>Hop on Pop</i>",
+            "question": "The title of this Dr. Seuss book is evident from the illustration seen here",
+            "value": 400,
+            "airdate": "2004-12-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67401,
+            "answer": "Shake \\'n Bake",
+            "question": "Varieties of this brand of seasoned coating mix from Kraft include Tangy Honey Glaze & Original Pork",
+            "value": 600,
+            "airdate": "2004-12-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67407,
+            "answer": "a chill pill",
+            "question": "To tell someone to relax, you can use the slang phrase \"take a\" this rhyming pharmaceutical term",
+            "value": 800,
+            "airdate": "2004-12-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 67413,
+            "answer": "Wi-Fi",
+            "question": "At many Starbucks you can surf the Internet cordless with this type of rhyming computer network card",
+            "value": 1000,
+            "airdate": "2004-12-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 74859,
+            "answer": "Bed Head",
+            "question": "TIGI has a line of hair products called this, to give you that tousled, just woken up look",
+            "value": 200,
+            "airdate": "2005-11-22T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 74871,
+            "answer": "Abba-Zabba",
+            "question": "This candy, taffy with a peanut butter center, comes in a yellow & black checkered wrapper",
+            "value": 600,
+            "airdate": "2005-11-22T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 74877,
+            "answer": "<i>Blue\\'s Clues</i>",
+            "question": "This kids' show features the colorful character seen here",
+            "value": 800,
+            "airdate": "2005-11-22T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 74883,
+            "answer": "flower power",
+            "question": "Allen Ginsberg is said to have coined this phrase for the peaceful goals of the '60s counterculture",
+            "value": 1000,
+            "airdate": "2005-11-22T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 74919,
+            "answer": "faint paint",
+            "question": "Any pigment on the wall so faded you can barely see it",
+            "value": 200,
+            "airdate": "2005-11-18T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 74925,
+            "answer": "a macho nacho",
+            "question": "A manly tortilla chip smothered with melted cheese",
+            "value": 400,
+            "airdate": "2005-11-18T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 74931,
+            "answer": "the bath path",
+            "question": "The way to the tub",
+            "value": 600,
+            "airdate": "2005-11-18T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 74937,
+            "answer": "borrow sorrow",
+            "question": "Accept the loan of someone else's pain & sadness",
+            "value": 800,
+            "airdate": "2005-11-18T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 74943,
+            "answer": "a heart part",
+            "question": "Mitral valve or ventricle",
+            "value": null,
+            "airdate": "2005-11-18T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76605,
+            "answer": "a goat coat",
+            "question": "A jacket for a nanny or a billy",
+            "value": 400,
+            "airdate": "2007-07-19T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76599,
+            "answer": "a long song",
+            "question": "A really extensive musical ballad",
+            "value": 200,
+            "airdate": "2007-07-19T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76611,
+            "answer": "a stout Scout",
+            "question": "A rather hefty Webelo or Tenderfoot",
+            "value": 600,
+            "airdate": "2007-07-19T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76617,
+            "answer": "a kilt quilt",
+            "question": "A bed covering made from bits & pieces of Scottish skirts",
+            "value": 800,
+            "airdate": "2007-07-19T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 76623,
+            "answer": "a spider glider",
+            "question": "An engineless aircraft for a brown recluse",
+            "value": 1000,
+            "airdate": "2007-07-19T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78219,
+            "answer": "a big rig",
+            "question": "It's common slang for a huge 18-wheeler",
+            "value": 200,
+            "airdate": "2007-05-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78225,
+            "answer": "dime grime",
+            "question": "Dirt on a 10-cent piece",
+            "value": 400,
+            "airdate": "2007-05-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78231,
+            "answer": "toss floss",
+            "question": "Throw dental thread around",
+            "value": 600,
+            "airdate": "2007-05-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78237,
+            "answer": "a digestion question",
+            "question": "A query about the process by which food is broken down, absorbed & assimilated by the body",
+            "value": 800,
+            "airdate": "2007-05-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 78243,
+            "answer": "a Tabasco fiasco",
+            "question": "Debacle following the spilling of McIlhenny's famous hot sauce",
+            "value": 1000,
+            "airdate": "2007-05-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 79959,
+            "answer": "book nook",
+            "question": "Cozy corner where you'd keep paperbacks & hardbacks",
+            "value": 200,
+            "airdate": "2007-02-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 79965,
+            "answer": "sandy candy",
+            "question": "A Twix or Jolly Rancher after it's been dropped on the beach",
+            "value": 400,
+            "airdate": "2007-02-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 79971,
+            "answer": "skunk bunk",
+            "question": "Place designed for a small spraying striped animal to sleep",
+            "value": 600,
+            "airdate": "2007-02-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 79977,
+            "answer": "frail snail",
+            "question": "A weak, not in the best of health gastropod of the common garden variety",
+            "value": 800,
+            "airdate": "2007-02-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 79983,
+            "answer": "couch grouch",
+            "question": "A sofa-bound grumbling, sulky person",
+            "value": 1000,
+            "airdate": "2007-02-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 84999,
+            "answer": "a flabby tabby",
+            "question": "A fat & sagging striped house cat",
+            "value": 200,
+            "airdate": "2008-05-08T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 85005,
+            "answer": "a French stench",
+            "question": "What's that putrid odor coming from Paris & Nice?",
+            "value": 400,
+            "airdate": "2008-05-08T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 85011,
+            "answer": "a teeny genie",
+            "question": "A minuscule spirit in a magic lamp",
+            "value": 600,
+            "airdate": "2008-05-08T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 85017,
+            "answer": "a closer grocer",
+            "question": "A nearer food merchant",
+            "value": 800,
+            "airdate": "2008-05-08T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 85023,
+            "answer": "rust dust",
+            "question": "Fine powdery remains from a piece of oxidized metal",
+            "value": 1000,
+            "airdate": "2008-05-08T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86349,
+            "answer": "grime",
+            "question": "A black layer of accumulated dirt",
+            "value": 200,
+            "airdate": "2008-03-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86355,
+            "answer": "a mime",
+            "question": "A white-faced impersonator",
+            "value": 400,
+            "airdate": "2008-03-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86361,
+            "answer": "sublime",
+            "question": "Adjective meaning so awe-inspiringly beautiful as to be almost heavenly",
+            "value": 600,
+            "airdate": "2008-03-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86367,
+            "answer": "to prime",
+            "question": "To prepare a gun for firing by inserting a charge",
+            "value": 800,
+            "airdate": "2008-03-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86373,
+            "answer": "maritime",
+            "question": "Adjective for 3 Canadian provinces on the Gulf of St. Lawrence",
+            "value": 1000,
+            "airdate": "2008-03-06T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86649,
+            "answer": "a dime lime",
+            "question": "A 10-cent small green citrus fruit",
+            "value": 200,
+            "airdate": "2008-02-21T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86655,
+            "answer": "a llama drama",
+            "question": "A stage play about a woolly South American beast of burden",
+            "value": 400,
+            "airdate": "2008-02-21T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86661,
+            "answer": "wants fonts",
+            "question": "Desires an assortment of letter types & characters for the computer",
+            "value": 600,
+            "airdate": "2008-02-21T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86667,
+            "answer": "cleanses lenses",
+            "question": "Washes a pair of eye contacts",
+            "value": 800,
+            "airdate": "2008-02-21T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 86673,
+            "answer": "weaker speaker (or meeker speaker)",
+            "question": "One orator who is more timid than another",
+            "value": 1000,
+            "airdate": "2008-02-21T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 90489,
+            "answer": "a clown frown",
+            "question": "The scowl of a circus buffoon",
+            "value": 200,
+            "airdate": "2009-03-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 90495,
+            "answer": "a free \"Z\"",
+            "question": "The mark of Zorro, when he doesn't charge you for it",
+            "value": 400,
+            "airdate": "2009-03-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 90501,
+            "answer": "a zebra Libra",
+            "question": "An African equine born under the sign of the scales",
+            "value": 600,
+            "airdate": "2009-03-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 90507,
+            "answer": "a lone bone",
+            "question": "The only tibia",
+            "value": 800,
+            "airdate": "2009-03-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 90513,
+            "answer": "a patrician magician",
+            "question": "An aristocratic prestidigitator",
+            "value": 1000,
+            "airdate": "2009-03-13T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 100568,
+            "answer": "to throw dough",
+            "question": "To toss unbaked bread",
+            "value": 200,
+            "airdate": "2009-10-22T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 100574,
+            "answer": "true blue",
+            "question": "Genuine azure or teal",
+            "value": 400,
+            "airdate": "2009-10-22T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 100580,
+            "answer": "Punch\\'s lunches",
+            "question": "Puppet Judy's pugilistic spouse's midday meals",
+            "value": 600,
+            "airdate": "2009-10-22T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 100586,
+            "answer": "a tick flick",
+            "question": "Movie for a fever-causing Rocky Mountain insect",
+            "value": 800,
+            "airdate": "2009-10-22T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 100592,
+            "answer": "a Shuttle rebuttal",
+            "question": "A refuting argument regarding the reusable space vehicle",
+            "value": 1000,
+            "airdate": "2009-10-22T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 115836,
+            "answer": "The Black Eyed Peas",
+            "question": "",
+            "value": null,
+            "airdate": "2013-07-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 115842,
+            "answer": "dapper rapper",
+            "question": "A neat, smartly dressed musical performer like 50 Cent or Eminem",
+            "value": 400,
+            "airdate": "2013-07-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 115848,
+            "answer": "particle article",
+            "question": "A magazine story about a neutron or proton",
+            "value": 600,
+            "airdate": "2013-07-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 115854,
+            "answer": "vane Dane",
+            "question": "An egotistical person from Copenhagen",
+            "value": 800,
+            "airdate": "2013-07-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 115860,
+            "answer": "bingo lingo",
+            "question": "Early bird, caller, dauber, free space",
+            "value": 1000,
+            "airdate": "2013-07-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 119078,
+            "answer": "a thick brick",
+            "question": "A wide & heavy rectangular block for building",
+            "value": 200,
+            "airdate": "2013-02-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 119084,
+            "answer": "stupid Cupid",
+            "question": "Dumb god of love",
+            "value": 400,
+            "airdate": "2013-02-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 119090,
+            "answer": "a hammer clamor",
+            "question": "Ball-peen noise",
+            "value": 600,
+            "airdate": "2013-02-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 119096,
+            "answer": "a snake steak",
+            "question": "Filet of cobra",
+            "value": 800,
+            "airdate": "2013-02-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 119102,
+            "answer": "a doctor proctor",
+            "question": "A surgeon who oversees your exams",
+            "value": 1000,
+            "airdate": "2013-02-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 130736,
+            "answer": "\"Pronto, Tonto\"",
+            "question": "A command to the Lone Ranger's companion to move quickly",
+            "value": 200,
+            "airdate": "2014-11-05T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 130742,
+            "answer": "a Greek geek",
+            "question": "An Athenian computer nerd",
+            "value": 400,
+            "airdate": "2014-11-05T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 130748,
+            "answer": "a Dallas palace",
+            "question": "Home for a king in the \"Big D\"",
+            "value": 600,
+            "airdate": "2014-11-05T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 130754,
+            "answer": "a fragrant vagrant",
+            "question": "A pleasant-smelling tramp or rover",
+            "value": 800,
+            "airdate": "2014-11-05T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 130760,
+            "answer": "botany monotony",
+            "question": "The sense that the science of plants is getting repetitive, day in & day out",
+            "value": 1000,
+            "airdate": "2014-11-05T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": null
+        },
+        {
+            "id": 139409,
+            "answer": "dapper rapper",
+            "question": "A neat, smartly dressed musical performer like 50 Cent or Eminem",
+            "value": 400,
+            "airdate": "2013-07-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4243,
+            "invalid_count": null
+        },
+        {
+            "id": 139415,
+            "answer": "particle article",
+            "question": "A magazine story about a neutron or proton",
+            "value": 600,
+            "airdate": "2013-07-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4243,
+            "invalid_count": null
+        },
+        {
+            "id": 139421,
+            "answer": "vane Dane",
+            "question": "An egotistical person from Copenhagen",
+            "value": 800,
+            "airdate": "2013-07-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4243,
+            "invalid_count": null
+        },
+        {
+            "id": 139427,
+            "answer": "bingo lingo",
+            "question": "Early bird, caller, dauber, free space",
+            "value": 1000,
+            "airdate": "2013-07-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4243,
+            "invalid_count": null
+        },
+        {
+            "id": 142645,
+            "answer": "a thick brick",
+            "question": "A wide & heavy rectangular block for building",
+            "value": 200,
+            "airdate": "2013-02-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4072,
+            "invalid_count": null
+        },
+        {
+            "id": 142651,
+            "answer": "stupid Cupid",
+            "question": "Dumb god of love",
+            "value": 400,
+            "airdate": "2013-02-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4072,
+            "invalid_count": null
+        },
+        {
+            "id": 142657,
+            "answer": "a hammer clamor",
+            "question": "Ball-peen noise",
+            "value": 600,
+            "airdate": "2013-02-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4072,
+            "invalid_count": null
+        },
+        {
+            "id": 142663,
+            "answer": "a snake steak",
+            "question": "Filet of cobra",
+            "value": 800,
+            "airdate": "2013-02-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4072,
+            "invalid_count": null
+        },
+        {
+            "id": 142669,
+            "answer": "a doctor proctor",
+            "question": "A surgeon who oversees your exams",
+            "value": 1000,
+            "airdate": "2013-02-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4072,
+            "invalid_count": null
+        },
+        {
+            "id": 154195,
+            "answer": "\"Pronto, Tonto\"",
+            "question": "A command to the Lone Ranger's companion to move quickly",
+            "value": 200,
+            "airdate": "2014-11-05T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4718,
+            "invalid_count": null
+        },
+        {
+            "id": 154201,
+            "answer": "a Greek geek",
+            "question": "An Athenian computer nerd",
+            "value": 400,
+            "airdate": "2014-11-05T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4718,
+            "invalid_count": null
+        },
+        {
+            "id": 154207,
+            "answer": "a Dallas palace",
+            "question": "Home for a king in the \"Big D\"",
+            "value": 600,
+            "airdate": "2014-11-05T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4718,
+            "invalid_count": null
+        },
+        {
+            "id": 154213,
+            "answer": "a fragrant vagrant",
+            "question": "A pleasant-smelling tramp or rover",
+            "value": 800,
+            "airdate": "2014-11-05T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4718,
+            "invalid_count": null
+        },
+        {
+            "id": 154219,
+            "answer": "botany monotony",
+            "question": "The sense that the science of plants is getting repetitive, day in & day out",
+            "value": 1000,
+            "airdate": "2014-11-05T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4718,
+            "invalid_count": null
+        },
+        {
+            "id": 139403,
+            "answer": "The Black Eyed Peas",
+            "question": "",
+            "value": null,
+            "airdate": "2013-07-04T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": 4243,
+            "invalid_count": 13
+        },
+        {
+            "id": 4847,
+            "answer": "a selective detective",
+            "question": "A discriminating gumshoe",
+            "value": 400,
+            "airdate": "1989-01-03T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": 1
+        },
+        {
+            "id": 74865,
+            "answer": "Lite-Brite",
+            "question": "Glow with nostalgia & name this brand seen here",
+            "value": 400,
+            "airdate": "2005-11-22T12:00:00.000Z",
+            "category_id": 561,
+            "game_id": null,
+            "invalid_count": 1
+        }
+    ]
+}
